@@ -79,7 +79,7 @@ We continue to talk openly about whether we want children. Our feelings have cha
 - Confirm exact course titles and sanctuary role/start date if using exact wording; Scott thinks first shift was 1 October 2026. Certificate II and III in Exhibited animal care
 - Bank names, account use, regular payments and Kristina's income destination confirmed by Scott. Still confirm car loan holder and purchase date; do not treat proposed debt reduction as a settled joint budget decision. 
 - Scott reports the England wedding did not proceed because the couple separated. Remove the old forward-looking wedding reference; no need to describe their private circumstances in the statement.
-- Scott recalls attending a school friend's wedding together, possibly in 2025. Omitted pending name/month/year so it can be placed accurately relative to 24 September 2025.
+- Scott recalls attending a school friend's wedding together, possibly in 2025. Omitted pending name/month/year so it can be placed accurately relative to 24 September 2025. I will update, but keep this as something I need to find/figure out. 
 - Other periods apart need approximate dates/durations and clarification of who travelled/stayed home for the brother's move and birthdays. Scott recalls accompanying Kristina on two excursion/volunteering occasions but is uncertain; no count asserted in draft.
 - Christmas 2024 deliberately identified as earlier background; Christmas 2025 is within the update period.
 - Home deposit paragraph records Scott's intention only; no scheme eligibility, withdrawal amount or entitlement has been assessed or asserted.
