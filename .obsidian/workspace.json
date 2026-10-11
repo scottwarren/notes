@@ -82,7 +82,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -241,13 +241,14 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8a2e0cba114b430e",
+  "active": "ec36bdb83790650b",
   "lastOpenFiles": [
-    "Visa - 801.md",
     "Visa 801 - Document Checklist.md",
+    "Visa - 801.md",
     "z/Daily Notes/2026-10-11.md",
     "z/Daily Notes/2026-09-22.md",
     "z/Daily Notes/2026-09-20.md",
