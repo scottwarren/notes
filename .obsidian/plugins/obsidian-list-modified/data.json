@@ -25,12 +25,22 @@
   "lastTrackedDate": "2026-10-11",
   "trackedFiles": [
     {
-      "path": "Visa - 801.md",
+      "path": "Visa/801 - Permanent Residency/Visa - 801.md",
       "supposedList": "created",
       "matchesCriteria": true
     },
     {
-      "path": "Visa 801 - Document Checklist.md",
+      "path": "Visa/801 - Permanent Residency/Visa 801 - Document Checklist.md",
+      "supposedList": "created",
+      "matchesCriteria": true
+    },
+    {
+      "path": "Visa/Visa.md",
+      "supposedList": "created",
+      "matchesCriteria": true
+    },
+    {
+      "path": "Visa/801 - Permanent Residency/801 - Permanent Residency.md",
       "supposedList": "created",
       "matchesCriteria": true
     }

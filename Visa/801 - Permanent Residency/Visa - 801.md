@@ -1,6 +1,6 @@
 * [x] Generate checklist
 * [ ] Prioritise the documents
-	* high priority according to Affinity
+	* High priority according to Affinity
 	* High amount of effort
 	* 
 
