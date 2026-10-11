@@ -6,6 +6,8 @@ Updated 11 October 2026. Interview notes, not a completed declaration.
 
 ## Authoritative working base
 
+Latest interview incorporated into [[Scott - Relationship Statement 801 - Draft]]: daily messaging and most-night FaceTime during Bali; other absences for family events/move, TAFE and Sydney Bats with dates pending; England wedding cancelled; school friend's wedding date pending; Christmas 2024 hosted with Bulgarian traditions and Christmas 2025 chalet with both families; detailed CBA/2Up/ING budget arrangements; Kristina's earnings paid into 2Up; house goal in 3–4 years and ongoing undecided conversations about children. Flight bookings checked against supplied dates; Bali return evidence pending. The current draft and its review notes take precedence over unanswered-question lists and earlier passages retained below.
+
 Scott identified the agency-provided latest copy in the 801 Drive folder: [Scott Relationship Statement — v8](https://docs.google.com/document/d/1Lm7IJRBwmR9bjFw4oj-VTeXB7uqn8bH3/edit). Its address is current and correct according to Scott. Read on 11 October 2026. Use this instead of v5.
 
 The v8 introduction gives the current Coffs Harbour address, but the body still describes current residence in Sofia, no debt or credit cards, and future plans to live in Australia. These passages need updating from confirmed facts. Do not assume other historical statements or future plans remain current. Kristina's middle name is spelled differently in Scott's and Kristina's earlier statements; confirm correct full legal name before finalisation.
