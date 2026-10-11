@@ -2,6 +2,8 @@
 
 Updated 11 October 2026. Interview notes, not a completed declaration.
 
+**Superseded details below:** The subsequent interview and lease reads establish Urunga commencement 11 November 2024 (Scott's account), Coffs commencement 28 July 2025, and renewal 27 July 2026–25 January 2027 (Drive text). Thus the initial estimate of ten months in Urunga should not be reused. Certificate II completed June 2025; Certificate III June 2026. Kristina has worked two sanctuary shifts, with first shift approximately 1 October 2026. Bulgaria trips: 11 December 2025–8 January 2026 (return departure 6 January), and 3–18 June 2026 (return departure 16 June). Bali: 30 September–10 October 2025. The expanded current draft, evidence links and remaining questions are in [[Scott - Relationship Statement 801 - Draft]]. The first draft passages below are retained as earlier working notes, not the current draft.
+
 ## Authoritative working base
 
 Scott identified the agency-provided latest copy in the 801 Drive folder: [Scott Relationship Statement — v8](https://docs.google.com/document/d/1Lm7IJRBwmR9bjFw4oj-VTeXB7uqn8bH3/edit). Its address is current and correct according to Scott. Read on 11 October 2026. Use this instead of v5.
