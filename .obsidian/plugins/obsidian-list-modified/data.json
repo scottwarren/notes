@@ -22,67 +22,6 @@
   "sortModified": "none",
   "sortDeleted": "none",
   "verboseModeEnabled": false,
-  "lastTrackedDate": "2026-10-11",
-  "trackedFiles": [
-    {
-      "path": "Visa/801 - Permanent Residency/Visa - 801.md",
-      "supposedList": "created",
-      "matchesCriteria": true
-    },
-    {
-      "path": "Visa/801 - Permanent Residency/Visa 801 - Document Checklist.md",
-      "supposedList": "created",
-      "matchesCriteria": true
-    },
-    {
-      "path": "Visa/Visa.md",
-      "supposedList": "created",
-      "matchesCriteria": true
-    },
-    {
-      "path": "Visa/801 - Permanent Residency/801 - Permanent Residency.md",
-      "supposedList": "created",
-      "matchesCriteria": true
-    },
-    {
-      "path": "Visa/801 - Permanent Residency/Visa 801 - Prioritised Work Plan.md",
-      "supposedList": "created",
-      "matchesCriteria": true
-    },
-    {
-      "path": "Visa/801 - Permanent Residency/Scott - Relationship Statement Working Notes.md",
-      "supposedList": "created",
-      "matchesCriteria": true
-    },
-    {
-      "path": "Visa/801 - Permanent Residency/Scott - Relationship Statement 801 - Draft.md",
-      "supposedList": "created",
-      "matchesCriteria": true
-    },
-    {
-      "path": "Visa/801 - Permanent Residency/Prepared Documents/Scott Relationship Statement 801 Initial Draft.docx",
-      "supposedList": "created",
-      "matchesCriteria": false
-    },
-    {
-      "path": "Visa/801 - Permanent Residency/Prepared Documents/Scott Relationship Statement 801 Initial Draft.md",
-      "supposedList": "created",
-      "matchesCriteria": true
-    },
-    {
-      "path": "Visa/801 - Permanent Residency/Prepared Documents/Visa 801 Central Review Checklist.md",
-      "supposedList": "created",
-      "matchesCriteria": true
-    },
-    {
-      "path": "Visa/801 - Permanent Residency/Prepared Documents/Visa 801 Central Review Checklist.docx",
-      "supposedList": "created",
-      "matchesCriteria": false
-    },
-    {
-      "path": "Visa/801 - Permanent Residency/Prepared Documents/Visa 801 Document Checklist.docx",
-      "supposedList": "created",
-      "matchesCriteria": false
-    }
-  ]
+  "lastTrackedDate": "2026-10-12",
+  "trackedFiles": []
 }
