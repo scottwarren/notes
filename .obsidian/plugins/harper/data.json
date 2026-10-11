@@ -1,4 +1,5 @@
 {
+  "ignoredLints": "{\"context_hashes\":[]}",
   "useWebWorker": true,
   "lintSettings": {
     "ACoupleMore": null,
@@ -384,5 +385,8 @@
     "WorseOrWorst": null,
     "WorstCaseScenario": null,
     "WroughtIron": null
-  }
+  },
+  "userDictionary": [],
+  "dialect": 2,
+  "delay": -1
 }
