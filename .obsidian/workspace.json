@@ -1,0 +1,286 @@
+{
+  "main": {
+    "id": "ba584e23fba3878d",
+    "type": "split",
+    "children": [
+      {
+        "id": "1201c1832b0fd408",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65a77801f0bca625",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "z/Daily Notes/2026-09-20.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "2026-09-20"
+            }
+          },
+          {
+            "id": "e9de0be7284ff311",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "z/Daily Notes/2026-10-11.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-10-11"
+            }
+          },
+          {
+            "id": "def3c4ad464c4784",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "z/Daily Notes/2026-10-11.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "2026-10-11"
+            }
+          },
+          {
+            "id": "ec36bdb83790650b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Visa - 801.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Visa - 801"
+            }
+          },
+          {
+            "id": "8a2e0cba114b430e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Visa 801 - Document Checklist.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Visa 801 - Document Checklist"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0cb36bba0913d6ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "25f74f40ef0567ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69afcb497a8a80fb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b98236d17f973de2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "12a1d4ccab93b2f4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "360c11526ebfcdae",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "75dbef53a9c4a8d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "f75b015b55c0f9a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87cef30acbc5a9aa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "RG Media/example-api-response.json.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for example-api-response.json"
+            }
+          },
+          {
+            "id": "462e5fb070f92d31",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "RG Media/example-api-response.json.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from example-api-response.json"
+            }
+          },
+          {
+            "id": "f0390a615f5ac038",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e0399cfbee4c63af",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "RG Media/example-api-response.json.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of example-api-response.json"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "pinned-daily-notes:Open today's daily note (Pinned)": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "8a2e0cba114b430e",
+  "lastOpenFiles": [
+    "Visa - 801.md",
+    "Visa 801 - Document Checklist.md",
+    "z/Daily Notes/2026-10-11.md",
+    "z/Daily Notes/2026-09-22.md",
+    "z/Daily Notes/2026-09-20.md",
+    "z/Daily Notes/2026-03-29.md",
+    "z/Daily Notes/2025-08-23.md",
+    "RG Media/Fake Jira2.md",
+    "z/Daily Notes/2026-09-08.md",
+    "z/Daily Notes/2026-07-30.md",
+    "RG Media/example-api-response.json.md",
+    "z/Daily Notes/2026-03-22.md",
+    "RG Media/API Response notes.md",
+    "RG Media/Examples.md",
+    "RG Media/Project Initial Thoughts.md",
+    "templates/templates.md",
+    "personal/personal.md",
+    "old/old.md",
+    "z/Daily Notes/Daily Notes.md",
+    "z/z.md",
+    "Untitled.md",
+    "templates/daily-note-template.md",
+    "2025-08-23.md",
+    "templates",
+    "Welcome.md",
+    "RG Media/Fake Jira.md",
+    "RG Media/RG Media.md",
+    "RG Media",
+    "z/Daily Notes",
+    "z",
+    "Tags",
+    "K",
+    "keyboard",
+    "id model and serials",
+    "games/minecraft",
+    "games"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "excludedTags": [],
+  "excludedFolders": [],
+  "excludedNameContains": [],
+  "excludedExtensions": [],
+  "outputFormat": "- [[link]]",
+  "separateOutputFormats": false,
+  "createdFormat": "- [[link]]",
+  "modifiedFormat": "- [[link]]",
+  "deletedFormat": "- [[path]]",
+  "timeFormat": "h:mm A",
+  "autoEmbedAttachments": false,
+  "autoCreateLogNote": true,
+  "logNoteType": "daily",
+  "writeInterval": 0,
+  "combineCreatedAndModified": false,
+  "autoRemoveDividers": true,
+  "autoCreateCreatedDivider": false,
+  "autoCreateModifiedDivider": false,
+  "autoCreateDeletedDivider": false,
+  "sortCreated": "none",
+  "sortModified": "none",
+  "sortDeleted": "none",
+  "verboseModeEnabled": false,
+  "lastTrackedDate": "2026-10-11",
+  "trackedFiles": [
+    {
+      "path": "Visa - 801.md",
+      "supposedList": "created",
+      "matchesCriteria": true
+    },
+    {
+      "path": "Visa 801 - Document Checklist.md",
+      "supposedList": "created",
+      "matchesCriteria": true
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+	"id": "new-file-name",
+	"name": "New Filename",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Change the default filename used for new notes",
+	"author": "Amin Sennour",
+	"authorUrl": "https://aminsennour.com",
+	"isDesktopOnly": false
+}
