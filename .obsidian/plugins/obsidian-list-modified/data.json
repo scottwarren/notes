@@ -1711,27 +1711,27 @@
     },
     {
       "path": "Visa/801 - Permanent Residency/tmp/rendered_scott/page-1.png",
-      "supposedList": "deleted",
+      "supposedList": "created",
       "matchesCriteria": false
     },
     {
       "path": "Visa/801 - Permanent Residency/tmp/rendered_scott/page-2.png",
-      "supposedList": "deleted",
+      "supposedList": "created",
       "matchesCriteria": false
     },
     {
       "path": "Visa/801 - Permanent Residency/tmp/rendered_scott/page-3.png",
-      "supposedList": "deleted",
+      "supposedList": "created",
       "matchesCriteria": false
     },
     {
       "path": "Visa/801 - Permanent Residency/tmp/rendered_scott/page-4.png",
-      "supposedList": "deleted",
+      "supposedList": "created",
       "matchesCriteria": false
     },
     {
       "path": "Visa/801 - Permanent Residency/tmp/rendered_scott/page-5.png",
-      "supposedList": "deleted",
+      "supposedList": "created",
       "matchesCriteria": false
     }
   ]
