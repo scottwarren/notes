@@ -145,6 +145,11 @@ def build_relationship_statement():
             for run in para.runs:
                 set_font(run, "Arial", 9)
 
+    # Keep the signature and witness fields together on a clean page.
+    signature_cell = doc.tables[0].cell(2, 1)
+    if signature_cell.paragraphs:
+        signature_cell.paragraphs[0].paragraph_format.page_break_before = True
+
     doc.core_properties.title = "Scott Relationship Statement 801 First Review Draft"
     doc.core_properties.subject = "Partner visa relationship statement for review"
     doc.core_properties.keywords = "Visa 801, relationship statement, WaKr-2631-801-3"
