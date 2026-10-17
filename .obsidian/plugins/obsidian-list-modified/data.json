@@ -918,6 +918,11 @@
       "path": "Visa/801 - Permanent Residency/tmp/render-checklist-v2/page-5.png",
       "supposedList": "created",
       "matchesCriteria": false
+    },
+    {
+      "path": "Visa/801 - Permanent Residency/tmp/build_gdoc_checklist_payload.py",
+      "supposedList": "created",
+      "matchesCriteria": false
     }
   ]
 }
