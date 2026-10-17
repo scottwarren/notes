@@ -4,25 +4,25 @@ Updated 18 October 2026. Use this as the central place to record remaining answe
 
 ## Confirmations for the statement
 
-[ ] Kristina's superannuation beneficiary nomination — confirm whether Scott has personally seen it. If yes, record the fund, nomination type and percentage if shown. If not, remove the claim from the statement until evidence is obtained.
+[ ] Kristina's superannuation beneficiary evidence — Scott has personally seen the nomination in Kristina's AustralianSuper account. Log in with Kristina and capture evidence showing Scott as beneficiary; record the nomination type and percentage if displayed.
 
-[ ] Bali contact — confirm whether you exchanged messages every day and approximately how many FaceTime or phone calls occurred. Replace “as I recall” and “a few times” with confirmed wording. Three ordinary screenshots from 6–8 October 2025 have been gathered locally.
+[x] Bali contact wording — use: “We remained in regular contact through messages on most days and video calls when her schedule allowed.” Do not claim daily contact or a specific call count. Three ordinary screenshots from 6–8 October 2025 have been uploaded to Drive.
 
-[ ] Other periods apart — a definite solo Sydney work trip is confirmed for 11–14 May 2026. Confirm how you kept in contact during that trip. A work activity also places Scott in Concord West on 10 November 2025; confirm the surrounding dates and whether Kristina accompanied him. For the brother's house move, birthdays, each TAFE excursion and Sydney Bats trip, give approximate dates, number of nights, who travelled, who remained home and how contact was maintained.
+[ ] Other periods apart — ask Affinity whether exact dates, durations and separate contact evidence are required for the short absences involving the brother's house move, birthdays, TAFE excursions and Sydney Bats. Definite solo work travel is confirmed for 11–14 May 2026. The circumstances around the 10 November 2025 Concord West work activity remain unknown; ask whether this needs to be resolved or included.
 
 [x] School friend's wedding — Photos metadata confirms 15 August 2025 in Buccan. This was before the 820 grant date, so it remains outside the updated statement. The couple's names are only needed if you choose to add it as earlier social context.
 
 [x] Car purchase — tax invoice confirms 7 November 2024 for a 2019 Mazda 3. Current registration-related evidence shows NSW registration DN93QA and Scott as owner. The ING loan is solely in Scott's name.
 
-[ ] Sanctuary work and income — confirm Kristina's role title, exact first shift date if known, and whether her first pay has already been deposited into joint 2Up or this is only the intended arrangement.
+[ ] Sanctuary role title — first shift confirmed as 1 October 2026 and first pay confirmed as deposited into joint 2Up. Add the exact role title if readily available from the contract or payslip.
 
 [x] Bali arrangements — Scott and Kristina drove to the Gold Coast together and left the car at Scott's mum's house. Kristina travelled alone, Scott remained in Australia and a dog sitter was arranged.
 
-[ ] Lease extension — confirm the renewal period is 27 July 2026 to 25 January 2027.
+[x] Lease extension — the renewal period 27 July 2026 to 25 January 2027 is confirmed by Scott and appears in the lease document.
 
-[ ] Scott's work — confirm “Web Developer” remains the correct occupation and whether the October 2024 start date should be stated more precisely.
+[x] Scott's work — use “Software Engineer”; employment commenced 21 October 2024.
 
-[ ] Bereavement timing — decide whether to include Kristina's father's exact date of death or keep the timing general.
+[x] Bereavement timing — keep the timing general. The exact date is not necessary unless Affinity requests it or Scott chooses to include it.
 
 [ ] Final read — check the statement sounds like Scott and is accurate, especially the bereavement, finances, living arrangements and future plans. Review with Affinity, update the cutoff date and arrange signing only after the content is final.
 
@@ -42,7 +42,7 @@ Response space: add answers below the relevant item, using approximate dates whe
 
 [ ] P1 Legal commitments — leases and Scott's IOOF beneficiary nomination are gathered. Kristina is shown as Scott's 100% beneficiary under a binding non-lapsing nomination. Retrieve Kristina's nomination naming Scott and identify any other relevant commitments, if applicable.
 
-[ ] P1 Contact during separation — three dated Bali Messages screenshots from 6–8 October 2025 have been gathered locally. Their Google Drive upload is pending Scott's explicit approval because they contain private messages. Add evidence for other periods apart if available.
+[x] P1 Contact during separation — three dated Bali Messages screenshots from 6–8 October 2025 have been uploaded to the Drive Contact During Separation folder. Ask Affinity whether further records are required for brief absences.
 
 [ ] P1 Photo timeline — 18 photos across 10 dates are in the draft. Ask Kristina for 8–12 candidates and select approximately 6–8 additions: two or three from August–October 2026, two or three from March–May 2026, one or two from September–November 2025, and a small number showing ordinary life or Australian family and friends. Avoid more Christmas duplicates and near-identical selfies.
 
