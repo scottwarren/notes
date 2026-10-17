@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import re
+import sys
 from pathlib import Path
 
 from PIL import Image
@@ -132,10 +133,7 @@ def build_relationship_statement():
     first_cell = doc.tables[0].cell(0, 1)
     for para in first_cell.paragraphs:
         if "Scott Phillip Warren" in para.text:
-            para.text = (
-                "I, 1 Scott Phillip Warren, 8/4 Prince Street, Coffs Harbour, NSW 2450, Web Developer,\n\n"
-                "make the following declaration under the Statutory Declarations Act 1959:"
-            )
+            para.text = "I, 1 Scott Phillip Warren, 8/4 Prince Street, Coffs Harbour, NSW 2450, Web Developer,"
             for run in para.runs:
                 set_font(run, "Arial", 9)
 
@@ -295,9 +293,13 @@ def build_photo_timeline():
 
 if __name__ == "__main__":
     PREPARED.mkdir(parents=True, exist_ok=True)
-    build_relationship_statement()
-    build_mum_review()
-    build_photo_timeline()
-    print(REL_OUT)
-    print(MUM_OUT)
-    print(PHOTO_OUT)
+    mode = sys.argv[1] if len(sys.argv) > 1 else "all"
+    if mode in ("all", "relationship"):
+        build_relationship_statement()
+        print(REL_OUT)
+    if mode in ("all", "mum"):
+        build_mum_review()
+        print(MUM_OUT)
+    if mode in ("all", "photos"):
+        build_photo_timeline()
+        print(PHOTO_OUT)
