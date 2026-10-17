@@ -9,13 +9,13 @@ Updated 18 October 2026. This is the central status checklist. A checked item me
 These are the highest-impact items still requiring work.
 
 * [ ] **[P1] Updated Form 80 for Kristina** — complete and review the form and attachment using the previous version as the base.
-* [ ] **[P1] Two updated Form 888 witness statements** — obtain updated statements from the intended witnesses; Jaya and Mum are currently tagged.
-* [ ] **[P1] Finalise Scott's relationship statement** — review the prepared draft, resolve the remaining factual questions, update the cutoff date, obtain Affinity's review and arrange signing.
-* [ ] **[P1] Relationship photo timeline** — the Google Doc exists but is empty. Add approximately two to three photos every two months, in date order, with names and short captions.
+* [ ] **[P1] Two updated Form 888 witness statements** — Mum's draft has been received and reviewed; correct the issues listed in the review notes, then complete signing and witnessing. Jaya's updated statement is still required.
+* [ ] **[P1] Finalise Scott's relationship statement** — review the first-pass draft dated 18 October 2026, resolve the remaining factual questions, obtain Affinity's review and arrange signing.
+* [ ] **[P1] Complete the relationship photo timeline coverage** — 18 curated photos from August 2025 to July 2026 have been exported and placed into a draft timeline. Add recent photos for August to October 2026 and, if available, ordinary-life photos for the March to May 2026 gap before final submission.
 * [ ] **[P1] Contact during periods apart** — add dated messages or call records for Bali and any other relevant separations after 24 September 2025.
 * [ ] **[P1] Correspondence to both partners at the shared address** — locate letters or mail addressed jointly, or separate correspondence showing both names at the same address.
-* [ ] **[P1] Legal commitments** — retrieve both superannuation beneficiary nominations and decide whether any other evidence is relevant.
-* [ ] **[P1] Assets and liabilities** — confirm the car purchase month and year and registration or ownership names. Decide whether to include the car insurance, car loan and dog-surgery loan evidence, describing sole-name liabilities accurately.
+* [ ] **[P1] Legal commitments** — Scott's IOOF beneficiary nomination has been captured and shows Kristina as 100% beneficiary under a binding non-lapsing nomination. Retrieve Kristina's beneficiary nomination and decide whether any other evidence is relevant.
+* [x] **[P1] Car purchase and registration evidence** — purchase invoice dated 7 November 2024 and current registration-related evidence have been gathered. The vehicle and liabilities are in Scott's name; describe them accurately as a shared household asset and joint decision rather than joint legal ownership.
 * [ ] **[P1] Upload and curate the newly gathered evidence** — upload the renamed bank statements, bills, car insurance and licence files to the 801 Google Drive folder, then choose a representative submission set with useful date coverage.
 
 ## Completed or gathered since the previous update
@@ -30,6 +30,12 @@ These are the highest-impact items still requiring work.
 * [x] Joint Bulgaria flight evidence gathered for December 2025 to January 2026 and June 2026.
 * [x] Current car insurance schedule gathered; Kristina is listed as a regular driver.
 * [x] Initial draft of Scott's updated relationship statement prepared.
+* [x] Scott's IOOF beneficiary nomination captured; Kristina is nominated for 100% under a binding non-lapsing nomination.
+* [x] Car purchase invoice gathered — 2019 Mazda 3, purchased 7 November 2024 from Moreton Bay Ford.
+* [x] Current vehicle registration-related evidence gathered — Mazda 3, NSW registration DN93QA, Scott named as owner on the QBE CTP evidence, registration period commencing 24 April 2026.
+* [x] Sydney travel review completed from available email and calendar evidence: definite solo work trip 11–14 May 2026; work activity in Concord West on 10 November 2025 with surrounding travel dates and whether Kristina accompanied Scott still to be confirmed; joint Sydney trip 27 February–1 March 2026 excluded from periods apart.
+* [x] Mum's witness statement draft received and reviewed; corrections and signing remain.
+* [x] Eighteen curated relationship photos exported from Photos for the timeline, covering August 2025 to July 2026.
 
 ##  Visa applicant's identity
 
@@ -49,13 +55,14 @@ These are the highest-impact items still requiring work.
 * [ ] [P1] -  #scott Updated Statutory Declaration (Relationship Statement) from your Sponsor (Scott) regarding your relationship ("Please update Scott's previous statement with information from 24 Sep 2025 (stage 1 subclass 820 visa grant) to current") #scott — **IN PROGRESS: initial draft prepared; final review, updates and signing remain.**
 * [ ] [P1] #jaya #mum - Form 888 – Statutory declaration by two Australian citizens or permanent residents who have personal knowledge of your partner relationship. ("You may use the same witnesses who completed the Form 888s for the Stage 1 partner visa application. Immigration only requires updated statements confirming their continued knowledge of your relationship.")
 * [ ] [P1] #kristina  #scott provide updated relationship documents since the grant of your Subclass 820 visa (original agency wording says “729”; confirm this correction with Affinity) - From 24th Sep 2025 to current - Examples of documents — **IN PROGRESS: bank, lease, bill, insurance and travel evidence gathered; photos, correspondence, separation contact records and final upload remain.**
-* [ ] [P1] Evidence of joint ownership or real estate or other major assets (e.g. cars, appliances) and any joint liabilities (loans, mortgages, insurance) - that have been acquired or taken out since Sep 2025 if applicable — **PARTIAL: car insurance gathered; ownership and loan evidence still needs confirmation and selection.**
-	* [ ] Confirm any jointly owned assets acquired since September 2025, if applicable. Car loan, dog-surgery loan and credit card are confirmed solely in Scott’s name. Confirm the car purchase month/year and registration/ownership names if using it as asset evidence.
+* [ ] [P1] Evidence of joint ownership or real estate or other major assets (e.g. cars, appliances) and any joint liabilities (loans, mortgages, insurance) - that have been acquired or taken out since Sep 2025 if applicable — **PARTIAL: car purchase, insurance and registration-related evidence gathered. The car was purchased before September 2025 and is legally in Scott's name, so confirm with Affinity whether it should be included as contextual household evidence.**
+	* [x] Car purchase and registration facts confirmed: invoice dated 7 November 2024; 2019 Mazda 3; current NSW registration DN93QA; Scott named as owner. Car loan, dog-surgery loan and credit card are solely in Scott's name.
+	* [ ] Confirm whether any genuinely joint asset or liability was acquired from 24 September 2025 onward. If none, record that the category is not applicable rather than overstating sole-name evidence.
 * [x] [P1] Sharing of finances - joint bank statements — **GATHERED LOCALLY; upload and final selection remain.**
 	* [x] CBA
 	* [x] 2Up
 	* [x] ING household-expense account statements, accurately identified as Scott's sole-name account
-* [ ] [P1] Legal commitments that you and your partner have undertaken as a couple — **PARTIAL: joint leases gathered; superannuation beneficiary nominations remain.**
+* [ ] [P1] Legal commitments that you and your partner have undertaken as a couple — **PARTIAL: joint leases and Scott's IOOF beneficiary nomination gathered; Kristina's beneficiary nomination remains.**
 * [x] [P1] Sharing of household bills and expenses (e.g. utility bills, rent payments, groceries, household purchases, or other shared living expenses). Since Sep 2025 if applicable — **BANK, RENT, INSURANCE AND UTILITY EVIDENCE GATHERED LOCALLY; upload and submission selection remain.**
 * [x] [P1] Joint ownership or joint rental of the house in which you live
 	* [x] Lease evidence — Urunga and initial Coffs Harbour agreements gathered, together with the Coffs Harbour extension for 27 July 2026–25 January 2027.
@@ -69,8 +76,9 @@ These are the highest-impact items still requiring work.
 * [ ] Terms of your wills
 * [x] [P1] Records of joint travel (e.g. flight bookings, hotel/accommodation bookings, travel itineraries, and photos from trips taken together) - Since Sep 2025, if applicable — **FLIGHT EVIDENCE GATHERED FOR BOTH BULGARIA TRIPS. Add accommodation or photos if useful.**
 * [ ] [P1] Correspondence and itemised phone accounts to show that contact maintained during any period of separation - since Sep 2025 if applicable
-* [ ] [P1] Relationship Timeline Photos - Since Sep 2025
-	* [ ] Compile these in a word document in chronological order with the date and a brief description under each photo. Around 2 to 3 photos every two months will be sufficient
+* [ ] [P1] Relationship Timeline Photos - Since Sep 2025 — **IN PROGRESS: 18 photos exported and placed into a draft timeline.**
+	* [x] Compile the current album in chronological order with date, people and a brief caption.
+	* [ ] Add recent photos for August to October 2026 and, if available, fill the March to May 2026 gap so the final set better matches the agency's suggestion of two to three photos every two months.
 ## Health and character documents
 
  * [x] Health examinations (if required - you will be notified)
@@ -91,11 +99,11 @@ These are the highest-impact items still requiring work.
 The initial draft is prepared for review. Add replies beneath these items; approximate dates are fine where exact dates are being checked.
 
 
-* [ ] Short periods apart — for the brother’s house move, birthdays, each TAFE excursion and Sydney Bats trip, supply approximate dates, number of nights, who travelled, who remained home and how you kept in contact. Identify which were after 24 September 2025 and which trips you took together. The draft currently describes them generally without invented dates.
+* [ ] Short periods apart — definite solo work travel is now confirmed for Sydney from 11 to 14 May 2026. Confirm how you kept in contact during that trip. Also supply approximate dates, number of nights, who travelled, who remained home and how you kept in contact for the brother's house move, birthdays, each TAFE excursion and Sydney Bats trip. A work activity places Scott in Concord West on 10 November 2025, but the surrounding travel dates and whether Kristina accompanied him still need confirmation.
 
 * [ ] School friend’s wedding — provide the couple’s names and approximate date. This event has been left out until its timing is known.
 
-* [ ] Car purchase — provide approximate purchase date and confirm registration/ownership names if relying on the car as asset evidence. The ING loan being solely in Scott’s name is already confirmed; no need to reconfirm it.
+* [x] Car purchase — confirmed from the tax invoice: 7 November 2024, 2019 Mazda 3. Current registration-related evidence shows NSW registration DN93QA and Scott as owner. The ING loan is solely in Scott's name.
 
 * [ ] Sanctuary work — confirm the first shift date if you want it stated exactly (currently “around the beginning of October 2026”), and the role title if useful. Update the reference to two completed shifts when finalising the statement.
 
@@ -112,7 +120,7 @@ Response space: add answers below the relevant item, using approximate dates whe
 * [ ] Joint travel — December and June Bulgaria flight records have been reviewed. Add available accommodation details and photos where helpful. No extra December passenger record is requested: Scott confirmed both travelled and the booking is for two travellers.
 * [ ] Contact during separation — select dated messages/call records from Bali and relevant other periods apart for the P1 item above.
 * [x] Shared finances — CBA, 2Up and ING statements have been retrieved with relevant date coverage. ING and the loans remain accurately described as solely held. Upload and final submission selection are tracked above.
-* [ ] Legal commitments — locate both superannuation beneficiary nominations as support for the statement. Identify any other relevant commitments, if applicable.
+* [ ] Legal commitments — Scott's IOOF nomination is gathered and shows Kristina at 100% under a binding non-lapsing nomination. Locate Kristina's nomination naming Scott and identify any other relevant commitments, if applicable.
 * [x] Utilities — electricity, internet and telephone bills reviewed are in Scott's name; water bills are addressed to the property owner or agent. Gas remains to be confirmed as applicable or not applicable. Do not describe these as jointly held accounts.
 * [ ] Urunga lease — if precise historic tenancy coverage is needed, clarify the scan’s ticked six-month term versus its written end date of 10 February 2025, and any continuation. The commencement date is confirmed as 11 November 2024.
 * [ ] Agency wording — confirm the “Subclass 729” reference means 820 and whether Kristina’s Bulgarian licence is wanted.

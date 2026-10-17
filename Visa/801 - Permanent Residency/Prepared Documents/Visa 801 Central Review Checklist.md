@@ -1,14 +1,14 @@
 # Visa 801 Central Review Checklist
 
-Updated 11 October 2026. Use this as the central place to record remaining answers and evidence. P1 means Affinity marked the item as a priority in your original checklist. Items described as supporting evidence below are drafting suggestions, not additional agency requirements. “Not reviewed” does not mean a document is missing from Drive. The initial statement is for review and is not ready to sign.
+Updated 18 October 2026. Use this as the central place to record remaining answers and evidence. P1 means Affinity marked the item as a priority in your original checklist. Items described as supporting evidence below are drafting suggestions, not additional agency requirements. The first-pass statement is for review and is not ready to sign.
 
 ## Confirmations for the statement
 
-[ ] Short periods apart — for the brother’s house move, birthdays, each TAFE excursion and Sydney Bats trip, supply approximate dates, number of nights, who travelled, who remained home and how you kept in contact. Identify which were after 24 September 2025 and which trips you took together. The draft currently describes them generally without invented dates.
+[ ] Short periods apart — a definite solo Sydney work trip is confirmed for 11–14 May 2026. Confirm how you kept in contact during that trip. A work activity also places Scott in Concord West on 10 November 2025, but confirm the surrounding dates and whether Kristina accompanied him. For the brother's house move, birthdays, each TAFE excursion and Sydney Bats trip, provide approximate dates, number of nights, who travelled, who remained home and how you kept in contact.
 
 [ ] School friend’s wedding — provide the couple’s names and approximate date. This event has been left out until its timing is known.
 
-[ ] Car purchase — provide approximate purchase date and confirm registration/ownership names if relying on the car as asset evidence. The ING loan being solely in Scott’s name is already confirmed; no need to reconfirm it.
+[x] Car purchase — tax invoice confirms 7 November 2024 for a 2019 Mazda 3. Current registration-related evidence shows NSW registration DN93QA and Scott as owner. The ING loan is solely in Scott's name.
 
 [ ] Sanctuary work — confirm the first shift date if you want it stated exactly (currently “around the beginning of October 2026”), and the role title if useful. Update the reference to two completed shifts when finalising the statement.
 
@@ -28,13 +28,13 @@ Response space: add answers below the relevant item, using approximate dates whe
 
 [ ] P1 Utilities and shared address — electricity, gas and telephone accounts where applicable, plus dated correspondence showing your shared address. Identify the actual names on each account; do not assume joint ownership.
 
-[ ] P1 Assets and liabilities — identify any jointly owned assets or joint liabilities acquired since September 2025, if applicable. Car and dog-surgery loans are in Scott’s name. Mark genuinely inapplicable categories for Affinity rather than creating evidence.
+[ ] P1 Assets and liabilities — car invoice, insurance and registration-related evidence are gathered, but the car was purchased before September 2025 and is legally in Scott's name. Confirm whether any genuinely joint asset or liability was acquired from 24 September 2025 onward; otherwise ask Affinity to mark this category not applicable.
 
-[ ] P1 Legal commitments — leases are already located. Identify other relevant commitments, if any, and retrieve both superannuation beneficiary nominations to support the statement. Ask Affinity about scope if needed.
+[ ] P1 Legal commitments — leases and Scott's IOOF beneficiary nomination are gathered. Kristina is shown as Scott's 100% beneficiary under a binding non-lapsing nomination. Retrieve Kristina's nomination naming Scott and identify any other relevant commitments, if applicable.
 
 [ ] P1 Contact during separation — select dated messages/call records from Bali and relevant other periods apart. You have already described daily messages and FaceTime on most nights in Bali.
 
-[ ] P1 Photo timeline — compile chronological photos with dates, people and brief captions. Original agency checklist suggests around 2–3 photos every two months. Include family Christmas 2025, joint trips and ordinary life together where available.
+[ ] P1 Photo timeline — 18 photos from the curated Photos album have been exported and placed into a draft timeline, covering August 2025 to July 2026. Add recent photos for August to October 2026 and, if available, ordinary-life photos for the March to May 2026 gap before final submission.
 
 [ ] P1 Joint travel — flight records are located and reviewed. Add accommodation/itineraries/photos already available where helpful. Scott confirms both Bulgaria trips were together; no extra December passenger document is being requested merely because the booking summary names only Scott.
 
@@ -75,6 +75,12 @@ Resolved — Bulgaria Christmas trip: depart 11 December 2025; return departure 
 Resolved — Bulgaria June trip: depart 3 June 2026; return departure 16 June; arrival Australia 18 June. Separate tickets for Scott and Kristina show matching itineraries.
 
 Resolved — Bali outbound ticket names Kristina and departs 30 September 2025. Return evidence is the pending item above.
+
+Resolved — solo Sydney work travel is confirmed for 11–14 May 2026 from an itinerary naming Scott as the sole traveller. A 10 November 2025 work activity in Concord West is confirmed, but its travel range and whether Kristina accompanied Scott remain open. The 27 February–1 March 2026 Sydney trip was joint and is excluded from periods apart.
+
+Resolved — Scott's IOOF beneficiary nomination has been captured. It names Kristina as 100% beneficiary under a binding non-lapsing nomination.
+
+Resolved — car invoice and registration-related evidence are gathered. Purchase date is 7 November 2024; current NSW registration is DN93QA; Scott is named as owner.
 
 Resolved — England wedding did not proceed and is removed. Christmas 2024 is clearly earlier context. Current plans for Sydney, a home in 3–4 years and ongoing conversations about children are incorporated. The superannuation home-deposit wording records your intention, not an eligibility assessment.
 

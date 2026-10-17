@@ -393,6 +393,31 @@
       "path": "Visa/801 - Permanent Residency/Prepared Documents/Evidence Gathered/Sydney Work Travel Itinerary - Scott Warren - 2026-05-11 to 2026-05-14 - WaKr-2631-801-3.pdf",
       "supposedList": "created",
       "matchesCriteria": false
+    },
+    {
+      "path": "Visa/801 - Permanent Residency/Prepared Documents/Mum Witness Statement Review Notes - WaKr-2631-801-3.md",
+      "supposedList": "created",
+      "matchesCriteria": true
+    },
+    {
+      "path": "Visa/801 - Permanent Residency/Prepared Documents/Scott Relationship Statement 801 First Review Draft.md",
+      "supposedList": "created",
+      "matchesCriteria": true
+    },
+    {
+      "path": "Visa/801 - Permanent Residency/Prepared Documents/Visa 801 Central Review Checklist.md",
+      "matchesCriteria": true,
+      "supposedList": "modified"
+    },
+    {
+      "path": "Visa/801 - Permanent Residency/tmp/make_photo_contact_sheet.py",
+      "supposedList": "created",
+      "matchesCriteria": false
+    },
+    {
+      "path": "Visa/801 - Permanent Residency/tmp/photo-contact-sheet.jpg",
+      "supposedList": "created",
+      "matchesCriteria": false
     }
   ]
 }
