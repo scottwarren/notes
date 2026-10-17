@@ -133,6 +133,11 @@
       "path": "Visa/801 - Permanent Residency/tmp/pdfs/decryption-check/lease-initial-last.png",
       "supposedList": "created",
       "matchesCriteria": false
+    },
+    {
+      "path": "Visa/801 - Permanent Residency/tmp/apply_approved_renames.py",
+      "supposedList": "created",
+      "matchesCriteria": false
     }
   ]
 }
