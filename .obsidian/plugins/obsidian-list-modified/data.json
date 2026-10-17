@@ -22,6 +22,12 @@
   "sortModified": "none",
   "sortDeleted": "none",
   "verboseModeEnabled": false,
-  "lastTrackedDate": "2026-10-12",
-  "trackedFiles": []
+  "lastTrackedDate": "2026-10-18",
+  "trackedFiles": [
+    {
+      "path": "Visa/801 - Permanent Residency/tmp/pdfs/licence-ambiguous-second.png",
+      "supposedList": "created",
+      "matchesCriteria": false
+    }
+  ]
 }
