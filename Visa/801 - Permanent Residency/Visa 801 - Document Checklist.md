@@ -11,7 +11,7 @@ These are the highest-impact items still requiring work.
 * [ ] **[P1] Updated Form 80 for Kristina** — complete and review the form and attachment using the previous version as the base.
 * [ ] **[P1] Two updated Form 888 witness statements** — Mum's draft has been received and reviewed; correct the issues listed in the review notes, then complete signing and witnessing. Jaya's updated statement is still required.
 * [ ] **[P1] Finalise Scott's relationship statement** — review the first-pass draft dated 18 October 2026, answer the firm factual confirmations in “Scott's review required now”, obtain Affinity's review and arrange signing.
-* [ ] **[P1] Complete the relationship photo timeline coverage** — 18 curated photos from August 2025 to July 2026 have been placed into a draft timeline. Ask Kristina for additional candidates covering August–October 2026, March–May 2026 and ordinary life or Australian social occasions; then select approximately 6–8 additions.
+* [ ] **[P1] Complete the relationship photo timeline coverage** — Kristina added further photos and 24 curated photos across 16 dates from August 2025 to August 2026 are now in the draft timeline. The new selection adds June–August 2026 family, social and couple photos. If available, add one or two photos from March–May 2026 and one or two from September–October 2026; otherwise ask Affinity whether the present coverage is sufficient.
 * [ ] **[P1] Contact during periods apart** — three ordinary Bali Messages screenshots from 6–8 October 2025 have been gathered and uploaded to Google Drive. Ask Affinity whether separate dates and contact evidence are required for the shorter absences involving family events, TAFE excursions and Sydney Bats; add further evidence only if requested or readily available.
 * [ ] **[P1] Correspondence to both partners at the shared address** — locate letters or mail addressed jointly, or separate correspondence showing both names at the same address.
 * [ ] **[P1] Legal commitments** — Scott's IOOF beneficiary nomination has been captured and shows Kristina as 100% beneficiary under a binding non-lapsing nomination. Retrieve Kristina's beneficiary nomination and decide whether any other evidence is relevant.
@@ -33,9 +33,9 @@ These are the highest-impact items still requiring work.
 * [x] Scott's IOOF beneficiary nomination captured; Kristina is nominated for 100% under a binding non-lapsing nomination.
 * [x] Car purchase invoice gathered — 2019 Mazda 3, purchased 7 November 2024 from Moreton Bay Ford.
 * [x] Current vehicle registration-related evidence gathered — Mazda 3, NSW registration DN93QA, Scott named as owner on the QBE CTP evidence, registration period commencing 24 April 2026.
-* [x] Sydney travel review completed from available email and calendar evidence: definite solo work trip 11–14 May 2026; joint Sydney trip 27 February–1 March 2026 excluded from periods apart. A go-kart waiver signed on 10 November 2025 does not establish attendance or travel and has been removed from the travel analysis.
+* [x] Sydney travel review completed from available email and calendar evidence: definite solo work trip 11–14 May 2026; joint Sydney trip 27 February–1 March 2026 excluded from periods apart. Scott confirmed that the 10 November 2025 Concord West activity was another solo Sydney work trip, but it is unnecessary for the submission and has been left out.
 * [x] Mum's witness statement draft received and reviewed; corrections and signing remain.
-* [x] Eighteen curated relationship photos exported from Photos for the timeline, covering August 2025 to July 2026.
+* [x] Thirty-four relationship photos reviewed from the Photos album. Twenty-four were selected for the draft timeline, covering 16 dates from August 2025 to August 2026.
 * [x] Three ordinary Messages screenshots gathered for the Bali separation, covering 6–8 October 2025, and uploaded to the Google Drive Contact During Separation folder.
 
 ##  Visa applicant's identity
@@ -74,12 +74,13 @@ These are the highest-impact items still requiring work.
 	* [x] Internet bills gathered — account is in Scott's name.
 	* [x] Water bills gathered — addressed to the property owner or agent for the shared rental address.
 * [ ] [P1] Correspondence addressed to both you and your partner at the same address (letters, mail, etc)
-* [ ] Terms of your wills
+* [x] Terms of your wills — **NOT BEING RELIED ON for this submission.**
 * [x] [P1] Records of joint travel (e.g. flight bookings, hotel/accommodation bookings, travel itineraries, and photos from trips taken together) - Since Sep 2025, if applicable — **FLIGHT EVIDENCE GATHERED FOR BOTH BULGARIA TRIPS. Add accommodation or photos if useful.**
 * [ ] [P1] Correspondence and itemised phone accounts to show that contact maintained during any period of separation - since Sep 2025 if applicable
-* [ ] [P1] Relationship Timeline Photos - Since Sep 2025 — **IN PROGRESS: 18 photos exported and placed into a draft timeline.**
+* [ ] [P1] Relationship Timeline Photos - Since Sep 2025 — **IN PROGRESS: 24 photos across 16 dates have been placed into the updated draft timeline.**
 	* [x] Compile the current album in chronological order with date, people and a brief caption.
-	* [ ] Add recent photos for August to October 2026 and, if available, fill the March to May 2026 gap so the final set better matches the agency's suggestion of two to three photos every two months.
+	* [x] Add recent photos through August 2026 and broaden family, social and ordinary-activity coverage.
+	* [ ] If available, add one or two photos from March to May 2026 and one or two from September to October 2026; otherwise confirm with Affinity that the present coverage is sufficient.
 ## Health and character documents
 
  * [x] Health examinations (if required - you will be notified)
@@ -132,22 +133,21 @@ Response space: add answers below the relevant item, using approximate dates whe
 * [x] Shared finances — CBA, 2Up and ING statements have been retrieved with relevant date coverage. ING and the loans remain accurately described as solely held. Upload and final submission selection are tracked above.
 * [ ] Legal commitments — Scott's IOOF nomination is gathered and shows Kristina at 100% under a binding non-lapsing nomination. Locate Kristina's nomination naming Scott and identify any other relevant commitments, if applicable.
 * [x] Utilities — electricity, internet and telephone bills reviewed are in Scott's name; water bills are addressed to the property owner or agent. Gas remains to be confirmed as applicable or not applicable. Do not describe these as jointly held accounts.
-* [ ] Urunga lease — clarify with Scott why the agreement ticks a six-month fixed term but writes an end date of 10 February 2025, and whether the tenancy then continued periodically or under another agreement until the move to Coffs Harbour. The commencement date is confirmed as 11 November 2024.
+* [x] Urunga lease — Scott confirmed that after the fixed term the tenancy continued periodically until Scott and Kristina moved to Coffs Harbour in July 2025.
 * [ ] Agency question — confirm whether Kristina’s Bulgarian licence is wanted.
-* [ ] Wills — establish whether relevant existing wills are available; this is not a task to create new wills.
 * [ ] Optional supporting records — locate course completion certificates, sanctuary contract/payslip, volunteering records and veterinary invoices/loan records where useful. These are supporting suggestions, not additional agency requirements.
 
 ## Photo timeline review and gaps
 
-The current draft contains 18 photos across 10 dates. Coverage is strongest around the December 2025 Bulgaria trip and is thinner for ordinary life in Australia.
+The updated draft contains 24 photos across 16 dates from August 2025 to August 2026. Kristina's added photos improve June–August 2026 coverage and add family, friends, walking, sailing and a current couple photograph.
 
-* [ ] **Highest priority: August–October 2026** — add two or three recent photos showing the relationship continuing to the current date.
-* [ ] **March–May 2026 gap** — add two or three photos if available.
-* [ ] **September–November 2025** — add one or two photos, ideally after Kristina returned from Bali.
-* [ ] **Ordinary shared life** — add one or two photos at home, walking or caring for the dog, cooking, or doing everyday activities together.
-* [ ] **Australian family and friends** — add one or two photos from social occasions in Australia if available.
+* [x] **Recent coverage** — added recent photos through 29 August 2026.
+* [ ] **March–May 2026 gap** — add one or two photos if available.
+* [ ] **September–October 2026 gap** — add one or two current photos if available before finalising.
+* [x] **Ordinary shared life** — added walking and sailing photographs.
+* [x] **Australian family and friends** — added social photographs with friends.
 * [ ] **Milestones** — consider one photo from TAFE completion, sanctuary work or volunteering if it naturally includes both partners or shows mutual support.
-* [ ] Ask Kristina for approximately 8–12 candidate photos, then select 6–8 additions. Prioritise missing periods and settings rather than adding more Christmas duplicates or near-identical selfies.
+* [x] Review Kristina's additional candidates and select six useful additions without adding more Christmas duplicates or near-identical selfies.
 
 ## Confirmed facts and evidence review notes
 
@@ -158,7 +158,7 @@ Resolved — course titles are Certificate II and Certificate III in Exhibited A
 
 Resolved — CBA and 2Up accounts are joint. ING bills account, credit card, car loan and dog-surgery loan are in Scott’s name. Earnings, bill payments and the manual ING verification explanation are incorporated. Debt reduction from Kristina’s income remains tentative.
 
-Resolved — Urunga scan visually checked, pages 1–2: agreement made 8 November 2024; commencement 11 November 2024; Kristina and Scott named; address 28 Fitzroy Street, Urunga. The form ticks “6 months” but writes an end date of 10 February 2025. If Affinity needs precise historic tenancy coverage, clarify this inconsistency and any continuation; it does not alter the verified commencement date. The scan alone does not establish the actual move-out date.
+Resolved — Urunga scan visually checked, pages 1–2: agreement made 8 November 2024; commencement 11 November 2024; Kristina and Scott named; address 28 Fitzroy Street, Urunga. Scott confirmed that after the fixed term the tenancy continued periodically until Scott and Kristina moved to Coffs Harbour in July 2025.
 
 Resolved — Coffs lease text names both parties, commencing 28 July 2025 and ending 26 July 2026. Renewal runs 27 July 2026–25 January 2027. Scott accepted these dates. Signature images have not been independently authenticated.
 

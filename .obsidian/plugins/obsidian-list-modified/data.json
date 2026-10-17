@@ -1293,6 +1293,26 @@
       "path": "Visa/801 - Permanent Residency/tmp/photo-album-contact-sheet-2026-10-18.jpg",
       "supposedList": "created",
       "matchesCriteria": false
+    },
+    {
+      "path": "Visa/801 - Permanent Residency/Prepared Documents/Relationship Photo Timeline - August 2025 to August 2026 - WaKr-2631-801-3.docx",
+      "supposedList": "created",
+      "matchesCriteria": false
+    },
+    {
+      "path": "Visa/801 - Permanent Residency/tmp/checklist-sanitized.docx",
+      "supposedList": "created",
+      "matchesCriteria": false
+    },
+    {
+      "path": "Visa/801 - Permanent Residency/tmp/report-sanitized.docx",
+      "supposedList": "created",
+      "matchesCriteria": false
+    },
+    {
+      "path": "Visa/801 - Permanent Residency/tmp/photos-sanitized.docx",
+      "supposedList": "created",
+      "matchesCriteria": false
     }
   ]
 }

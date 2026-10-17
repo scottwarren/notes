@@ -44,7 +44,7 @@ Response space: add answers below the relevant item, using approximate dates whe
 
 [x] P1 Contact during separation — three dated Bali Messages screenshots from 6–8 October 2025 have been uploaded to the Drive Contact During Separation folder. Ask Affinity whether further records are required for brief absences.
 
-[ ] P1 Photo timeline — 18 photos across 10 dates are in the draft. Ask Kristina for 8–12 candidates and select approximately 6–8 additions: two or three from August–October 2026, two or three from March–May 2026, one or two from September–November 2025, and a small number showing ordinary life or Australian family and friends. Avoid more Christmas duplicates and near-identical selfies.
+[ ] P1 Photo timeline — Kristina added further candidates. All 34 album photos were reviewed and 24 photos across 16 dates from August 2025 to August 2026 are now in the updated draft. The selection adds June–August 2026 family, social and couple photos without adding Christmas duplicates. If available, add one or two photos from March–May 2026 and one or two from September–October 2026; otherwise ask Affinity whether the present coverage is sufficient.
 
 [ ] P1 Joint travel — flight records are located and reviewed. Add accommodation/itineraries/photos already available where helpful. Scott confirms both Bulgaria trips were together; no extra December passenger document is being requested merely because the booking summary names only Scott.
 
@@ -76,7 +76,7 @@ Resolved — course titles are Certificate II and Certificate III in Exhibited A
 
 Resolved — CBA and 2Up accounts are joint. ING bills account, credit card, car loan and dog-surgery loan are in Scott’s name. Earnings, bill payments and the manual ING verification explanation are incorporated. Debt reduction from Kristina’s income remains tentative.
 
-Resolved — Urunga scan visually checked, pages 1–2: agreement made 8 November 2024; commencement 11 November 2024; Kristina and Scott named; address 28 Fitzroy Street, Urunga. The form ticks “6 months” but writes an end date of 10 February 2025. If Affinity needs precise historic tenancy coverage, clarify this inconsistency and any continuation; it does not alter the verified commencement date. The scan alone does not establish the actual move-out date.
+Resolved — Urunga scan visually checked, pages 1–2: agreement made 8 November 2024; commencement 11 November 2024; Kristina and Scott named; address 28 Fitzroy Street, Urunga. Scott confirmed that after the fixed term the tenancy continued periodically until Scott and Kristina were ready to leave and moved to Coffs Harbour in July 2025. No agency clarification is currently required.
 
 Resolved — Coffs lease text names both parties, commencing 28 July 2025 and ending 26 July 2026. Renewal runs 27 July 2026–25 January 2027. Scott accepted these dates. Signature images have not been independently authenticated.
 
@@ -86,7 +86,7 @@ Resolved — Bulgaria June trip: depart 3 June 2026; return departure 16 June; a
 
 Resolved — Bali outbound ticket names Kristina and departs 30 September 2025. Return evidence is the pending item above.
 
-Resolved — solo Sydney work travel is confirmed for 11–14 May 2026 from an itinerary naming Scott as the sole traveller. The 27 February–1 March 2026 Sydney trip was joint and is excluded from periods apart. A go-kart waiver signed on 10 November 2025 contains the venue's Concord West address but does not establish attendance or travel, so it is excluded.
+Resolved — solo Sydney work travel is confirmed for 11–14 May 2026 from an itinerary naming Scott as the sole traveller. The 27 February–1 March 2026 Sydney trip was joint and is excluded from periods apart. Scott confirmed that the 10 November 2025 Concord West activity was another solo Sydney work trip, but it is unnecessary for the submission and has been left out.
 
 Resolved — Scott's IOOF beneficiary nomination has been captured. It names Kristina as 100% beneficiary under a binding non-lapsing nomination.
 

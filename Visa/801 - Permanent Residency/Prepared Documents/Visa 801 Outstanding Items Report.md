@@ -10,7 +10,7 @@ This report consolidates the documents, decisions and questions that remain for 
 * [ ] **Updated Form 80 for Kristina** — complete using the previous form and attachment as the base, then review every answer for changes.
 * [ ] **Two updated Form 888 statements** — correct Mum's reviewed draft, then arrange signing and witnessing. Obtain Jaya's updated statement and arrange signing and witnessing.
 * [ ] **Scott's relationship statement** — the confirmed occupation, employment date, sanctuary date, AustralianSuper and Bali-contact wording has been incorporated. Complete Scott's final voice and accuracy review, obtain Affinity's review, update the statement date and arrange signing.
-* [ ] **Relationship photo timeline** — add approximately 6–8 well-spaced photos from the gaps listed below, then review captions and final coverage.
+* [ ] **Relationship photo timeline** — review the updated 24-photo draft. If available, add one or two photos from March–May 2026 and one or two from September–October 2026; otherwise ask Affinity whether the current coverage is sufficient.
 * [ ] **Kristina's AustralianSuper beneficiary evidence** — log in with Kristina and capture a clear page showing Scott as beneficiary. Record the nomination type and percentage if displayed.
 * [ ] **Shared-address correspondence** — locate correspondence addressed jointly, or separate correspondence addressed to Scott and Kristina at the same residential address.
 * [ ] **Final evidence upload and selection** — ensure the gathered statements, bills, leases, insurance, identification and supporting evidence are in the 801 Drive folder, then choose a representative submission set with useful date coverage.
@@ -41,7 +41,6 @@ This report consolidates the documents, decisions and questions that remain for 
 * [ ] **Brief periods apart:** Do you require exact dates, durations and contact evidence for short absences such as the brother's house move, birthdays, TAFE excursions and Sydney Bats volunteering, or is a general description sufficient?
 * [ ] **Utilities:** The electricity, internet and telephone accounts are in Scott's name, and the water bills are addressed to the owner or agent. Is the shared-address and payment evidence sufficient where no utility is jointly named?
 * [ ] **Gas:** Confirm that this is not applicable to the property.
-* [ ] **Urunga lease:** The agreement ticks a six-month term but contains a written end date of 10 February 2025. Does Affinity require clarification or evidence of the subsequent continuation?
 
 ## 5. Periods apart and contact evidence
 
@@ -53,16 +52,16 @@ This report consolidates the documents, decisions and questions that remain for 
 
 ## 6. Photo timeline gaps
 
-The draft contains 18 photos across 10 dates. It is strongest around the December 2025 Bulgaria trip and needs broader coverage of ordinary life in Australia.
+The updated draft contains 24 photos across 16 dates from August 2025 to August 2026. Kristina's added photos materially improve June–August 2026 coverage, including family, friends, sailing, walking and a current couple photograph. The remaining date gaps are March–May 2026 and September–October 2026.
 
-* [ ] Add two or three photos from **August–October 2026**.
-* [ ] Add two or three photos from **March–May 2026**.
-* [ ] Add one or two photos from **September–November 2025**, ideally after Kristina returned from Bali.
-* [ ] Add one or two ordinary-life photos at home, walking or caring for the dog, cooking, or doing another shared activity.
-* [ ] Add one or two Australian social photos with family or friends if available.
+* [x] Add recent photos through **August 2026**.
+* [ ] If available, add one or two photos from **March–May 2026**.
+* [ ] If available, add one or two photos from **September–October 2026**.
+* [x] Add broader ordinary-activity and social coverage, including walking, sailing and time with friends.
+* [x] Add Australian social photos with family or friends.
 * [ ] Consider a TAFE, sanctuary or volunteering milestone photo if it naturally supports the relationship narrative.
 
-Ask Kristina for approximately 8–12 candidates and select the best 6–8. Avoid adding more Christmas duplicates or near-identical selfies.
+If no suitable photos exist for the remaining gaps, ask Affinity whether the current 24-photo spread is sufficient. Avoid adding more Christmas duplicates or near-identical selfies.
 
 ## 7. Evidence already gathered but requiring final filing or selection
 

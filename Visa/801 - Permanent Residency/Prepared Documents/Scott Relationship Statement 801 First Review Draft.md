@@ -73,7 +73,6 @@ Prepared 18 October 2026 for Scott's review. Client reference WaKr-2631-801-3. T
 ## Items Scott still needs to confirm before signing
 
 - Confirm how Scott and Kristina kept in contact during the 11–14 May 2026 Sydney work trip.
-- Confirm whether Kristina accompanied Scott for the work activity in Concord West on 10 November 2025, and the surrounding travel dates.
 - Add approximate dates and durations for other post-grant periods apart: brother's house move, birthdays, TAFE excursion and Sydney Bats volunteering.
 - Confirm the sanctuary role title and whether to state the first shift as 1 October 2026.
 - Confirm “Web Developer” is still the correct occupation for the declaration form.

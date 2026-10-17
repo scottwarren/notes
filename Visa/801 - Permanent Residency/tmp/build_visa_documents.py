@@ -16,13 +16,15 @@ from docx.shared import Inches, Pt, RGBColor
 
 ROOT = Path("/Users/scottwarren/projects/notes/Personal/Visa/801 - Permanent Residency")
 PREPARED = ROOT / "Prepared Documents"
-PHOTO_DIR = Path("/Users/scottwarren/Documents/Visas/Permanent Resident Visa/801 - Permanent Visa/Evidence/Relationship Photo Timeline - WaKr-2631-801-3")
+PHOTO_DIR = ROOT / "tmp" / "photo-album-export-2026-10-18"
 REL_TEMPLATE = PREPARED / "Scott Relationship Statement 801 Initial Draft.docx"
 REL_MD = PREPARED / "Scott Relationship Statement 801 First Review Draft.md"
 REL_OUT = PREPARED / "Scott Relationship Statement 801 First Review Draft - WaKr-2631-801-3.docx"
 MUM_MD = PREPARED / "Mum Witness Statement Review Notes - WaKr-2631-801-3.md"
 MUM_OUT = PREPARED / "Mum Witness Statement Review Notes - WaKr-2631-801-3.docx"
-PHOTO_OUT = PREPARED / "Relationship Photo Timeline - August 2025 to July 2026 - WaKr-2631-801-3.docx"
+PHOTO_OUT = PREPARED / "Relationship Photo Timeline - August 2025 to August 2026 - WaKr-2631-801-3.docx"
+
+PHOTO_SELECTION = [1, 2, 3, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 18, 20, 22, 23, 24, 26, 27, 28, 30, 32, 34]
 
 
 PHOTO_CAPTIONS = [
@@ -40,10 +42,16 @@ PHOTO_CAPTIONS = [
     ("28 December 2025", "Sofia, Bulgaria", "Scott and Kristina sharing a family dinner during their Christmas visit."),
     ("4 January 2026", "Ovoshtnik, Bulgaria", "Scott and Kristina together during their holiday in Bulgaria."),
     ("28 February 2026", "Engie Stadium, Sydney", "Scott and Kristina attending a concert together."),
+    ("11 June 2026", "Bulgaria", "Scott and Kristina sharing a meal with family and friends during their June visit."),
     ("16 June 2026", "Sofia, Bulgaria", "Scott and Kristina with family before returning to Australia."),
     ("16 June 2026", "Sofia, Bulgaria", "Scott and Kristina spending time with family during the June visit."),
+    ("19 June 2026", "Location not recorded", "Scott and Kristina together on a day out after returning to Australia."),
     ("11 July 2026", "Woolgoolga, New South Wales", "Scott and Kristina on a coastal walk together."),
     ("11 July 2026", "Woolgoolga, New South Wales", "Scott and Kristina together on the Woolgoolga coast."),
+    ("19 July 2026", "Location not recorded", "Scott and Kristina walking with friends and their dog."),
+    ("2 August 2026", "Location not recorded", "Scott and Kristina on a sailing outing with friends."),
+    ("11 August 2026", "Location not recorded", "Scott and Kristina spending time with friends."),
+    ("29 August 2026", "Location not recorded", "Scott and Kristina together during a day out."),
 ]
 
 
@@ -246,7 +254,7 @@ def build_photo_timeline():
     doc = Document()
     configure_simple_doc(
         doc,
-        "Relationship Photo Timeline August 2025 to July 2026",
+        "Relationship Photo Timeline August 2025 to August 2026",
         "Scott Phillip Warren and Kristina Aleksandrova Warren    Client reference WaKr-2631-801-3",
     )
     p = doc.add_paragraph(
@@ -254,7 +262,8 @@ def build_photo_timeline():
     )
     p.paragraph_format.space_after = Pt(10)
 
-    paths = sorted(PHOTO_DIR.glob("*.jpeg"), key=natural_photo_key)
+    all_paths = {natural_photo_key(path): path for path in PHOTO_DIR.glob("*.jpeg")}
+    paths = [all_paths[index] for index in PHOTO_SELECTION]
     if len(paths) != len(PHOTO_CAPTIONS):
         raise RuntimeError(f"Expected {len(PHOTO_CAPTIONS)} photos, found {len(paths)}")
 
@@ -285,7 +294,7 @@ def build_photo_timeline():
         spacer = doc.add_paragraph()
         spacer.paragraph_format.space_after = Pt(1)
 
-    doc.core_properties.title = "Relationship Photo Timeline August 2025 to July 2026"
+    doc.core_properties.title = "Relationship Photo Timeline August 2025 to August 2026"
     doc.core_properties.subject = "Relationship evidence for visa 801"
     doc.core_properties.keywords = "Visa 801, photo timeline, WaKr-2631-801-3"
     doc.save(PHOTO_OUT)
