@@ -10,7 +10,7 @@ from docx.shared import Inches, Pt, RGBColor
 
 
 SOURCE = Path("/Users/scottwarren/projects/notes/Personal/Visa/801 - Permanent Residency/Visa 801 - Document Checklist.md")
-OUTPUT = Path("/Users/scottwarren/projects/notes/Personal/Visa/801 - Permanent Residency/tmp/checklist-source.docx")
+OUTPUT = Path("/Users/scottwarren/projects/notes/Personal/Visa/801 - Permanent Residency/Prepared Documents/Visa 801 Document Checklist.docx")
 
 
 def set_font(run, name: str, size: float | None = None) -> None:
