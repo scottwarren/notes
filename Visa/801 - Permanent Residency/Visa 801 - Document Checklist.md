@@ -74,7 +74,6 @@ These are the highest-impact items still requiring work.
 	* [x] Internet bills gathered — account is in Scott's name.
 	* [x] Water bills gathered — addressed to the property owner or agent for the shared rental address.
 * [ ] [P1] Correspondence addressed to both you and your partner at the same address (letters, mail, etc)
-* [x] Terms of your wills — **NOT BEING RELIED ON for this submission.**
 * [x] [P1] Records of joint travel (e.g. flight bookings, hotel/accommodation bookings, travel itineraries, and photos from trips taken together) - Since Sep 2025, if applicable — **FLIGHT EVIDENCE GATHERED FOR BOTH BULGARIA TRIPS. Add accommodation or photos if useful.**
 * [ ] [P1] Correspondence and itemised phone accounts to show that contact maintained during any period of separation - since Sep 2025 if applicable
 * [ ] [P1] Relationship Timeline Photos - Since Sep 2025 — **IN PROGRESS: 24 photos across 16 dates have been placed into the updated draft timeline.**

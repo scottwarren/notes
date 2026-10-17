@@ -62,8 +62,6 @@ Response space: add answers below the relevant item, using approximate dates whe
 
 [ ] Grant letter — provide the Subclass 820 grant letter.
 
-[ ] Wills — establish whether existing wills contain relevant terms and retrieve these if applicable. This is not an instruction to create new wills.
-
 [ ] Agency clarification — confirm whether Kristina's Bulgarian driver licence is required. The original agency checklist consistently refers to subclass 820.
 
 The marriage certificate, health examination and relevant police-check entries were already checked off in your source checklist. No new action has been inferred for them; revisit only if Affinity requests it. Evidence not personally reviewed here remains a status question, not a claim that it has not been provided.
