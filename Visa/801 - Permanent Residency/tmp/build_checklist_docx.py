@@ -10,7 +10,7 @@ from docx.shared import Inches, Pt, RGBColor
 
 
 SOURCE = Path("/Users/scottwarren/projects/notes/Personal/Visa/801 - Permanent Residency/Visa 801 - Document Checklist.md")
-OUTPUT = Path("/Users/scottwarren/projects/notes/Personal/Visa/801 - Permanent Residency/Prepared Documents/Visa 801 Document Checklist.docx")
+OUTPUT = Path("/Users/scottwarren/projects/notes/Personal/Visa/801 - Permanent Residency/tmp/checklist-source.docx")
 
 
 def set_font(run, name: str, size: float | None = None) -> None:
@@ -32,7 +32,9 @@ def set_cell_or_paragraph_shading(paragraph, fill: str) -> None:
 
 def add_page_number(paragraph) -> None:
     paragraph.alignment = WD_ALIGN_PARAGRAPH.RIGHT
-    run = paragraph.add_run("Page ")
+    prefix = paragraph.add_run("Page ")
+    set_font(prefix, "Aptos", 9)
+    run = paragraph.add_run()
     set_font(run, "Aptos", 9)
     begin = OxmlElement("w:fldChar")
     begin.set(qn("w:fldCharType"), "begin")
@@ -174,6 +176,10 @@ def build() -> None:
                 if "[P1]" in body or current_section == "Remaining priority actions":
                     status.font.highlight_color = WD_COLOR_INDEX.YELLOW
             add_inline_markup(p, body, 10.2)
+            if body.startswith("[P1] Joint ownership or joint rental"):
+                p.paragraph_format.keep_with_next = True
+            if body.startswith("Lease agreement"):
+                p.paragraph_format.keep_with_next = True
             continue
 
         if stripped.startswith("* "):
