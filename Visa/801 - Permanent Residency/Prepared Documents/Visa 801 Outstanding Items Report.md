@@ -9,7 +9,7 @@ This report consolidates the documents, decisions and questions that remain for 
 
 * [ ] **Updated Form 80 for Kristina** — complete using the previous form and attachment as the base, then review every answer for changes.
 * [ ] **Two updated Form 888 statements** — correct Mum's reviewed draft, then arrange signing and witnessing. Obtain Jaya's updated statement and arrange signing and witnessing.
-* [ ] **Scott's relationship statement** — incorporate the confirmed facts below, complete Scott's final voice and accuracy review, obtain Affinity's review, update the statement date and arrange signing.
+* [ ] **Scott's relationship statement** — the confirmed occupation, employment date, sanctuary date, AustralianSuper and Bali-contact wording has been incorporated. Complete Scott's final voice and accuracy review, obtain Affinity's review, update the statement date and arrange signing.
 * [ ] **Relationship photo timeline** — add approximately 6–8 well-spaced photos from the gaps listed below, then review captions and final coverage.
 * [ ] **Kristina's AustralianSuper beneficiary evidence** — log in with Kristina and capture a clear page showing Scott as beneficiary. Record the nomination type and percentage if displayed.
 * [ ] **Shared-address correspondence** — locate correspondence addressed jointly, or separate correspondence addressed to Scott and Kristina at the same residential address.
