@@ -69,7 +69,6 @@ These are the highest-impact items still requiring work.
 	* [x] Lease evidence — Urunga and initial Coffs Harbour agreements gathered, together with the Coffs Harbour extension for 27 July 2026–25 January 2027.
 * [ ] [P1] Joint utilities accounts since Sep 2025 — **NO JOINTLY NAMED UTILITY ACCOUNT IDENTIFIED. Use the gathered bills as shared-address or household-expense evidence and describe the account holders accurately.**
 	* [x] Electricity bills gathered — account is in Scott's name.
-	* [ ] Gas — confirm whether not applicable.
 	* [x] Telephone bills gathered — accounts reviewed are in Scott's name.
 	* [x] Internet bills gathered — account is in Scott's name.
 	* [x] Water bills gathered — addressed to the property owner or agent for the shared rental address.
