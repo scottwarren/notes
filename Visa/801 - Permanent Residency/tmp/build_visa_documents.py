@@ -273,7 +273,8 @@ def build_photo_timeline():
 
         image_p = table.cell(0, 0).paragraphs[0]
         image_p.alignment = WD_ALIGN_PARAGRAPH.CENTER
-        width, height = photo_size(path, 6.45 * 96, 3.45 * 96)
+        max_height = 2.45 * 96 if idx < 2 else 3.45 * 96
+        width, height = photo_size(path, 6.45 * 96, max_height)
         image_p.add_run().add_picture(str(path), width=width, height=height)
 
         caption_p = table.cell(1, 0).paragraphs[0]
