@@ -8,7 +8,7 @@ Updated 18 October 2026. Use this as the central place to record remaining answe
 
 [x] Bali contact wording — use: “We remained in regular contact through messages on most days and video calls when her schedule allowed.” Do not claim daily contact or a specific call count. Three ordinary screenshots from 6–8 October 2025 have been uploaded to Drive.
 
-[ ] Other periods apart — ask Affinity whether exact dates, durations and separate contact evidence are required for the short absences involving the brother's house move, birthdays, TAFE excursions and Sydney Bats. Definite solo work travel is confirmed for 11–14 May 2026. The circumstances around the 10 November 2025 Concord West work activity remain unknown; ask whether this needs to be resolved or included.
+[ ] Other periods apart — ask Affinity whether exact dates, durations and separate contact evidence are required for the short absences involving the brother's house move, birthdays, TAFE excursions and Sydney Bats. Definite solo work travel is confirmed for 11–14 May 2026.
 
 [x] School friend's wedding — Photos metadata confirms 15 August 2025 in Buccan. This was before the 820 grant date, so it remains outside the updated statement. The couple's names are only needed if you choose to add it as earlier social context.
 
@@ -38,7 +38,7 @@ Response space: add answers below the relevant item, using approximate dates whe
 
 [ ] P1 Utilities and shared address — electricity, internet, telephone and water evidence has been gathered. Electricity, internet and phone are in Scott's name; water is addressed to the owner or agent. Confirm gas is not applicable and locate correspondence addressed jointly, or separate correspondence to each partner at the same address.
 
-[ ] P1 Assets and liabilities — car invoice, insurance and registration-related evidence are gathered, but the car was purchased before September 2025 and is legally in Scott's name. Confirm whether any genuinely joint asset or liability was acquired from 24 September 2025 onward; otherwise ask Affinity to mark this category not applicable.
+[x] P1 Assets and liabilities — not applicable for the post-grant period. Scott confirmed that no genuinely joint asset or liability was acquired from 24 September 2025 onward. The pre-grant car and sole-name loans should not be overstated as jointly owned.
 
 [ ] P1 Legal commitments — leases and Scott's IOOF beneficiary nomination are gathered. Kristina is shown as Scott's 100% beneficiary under a binding non-lapsing nomination. Retrieve Kristina's nomination naming Scott and identify any other relevant commitments, if applicable.
 
@@ -64,7 +64,7 @@ Response space: add answers below the relevant item, using approximate dates whe
 
 [ ] Wills — establish whether existing wills contain relevant terms and retrieve these if applicable. This is not an instruction to create new wills.
 
-[ ] Agency clarification — one source checklist line says “Subclass 729”; confirm with Affinity that it should refer to 820. The statement uses the confirmed 820 grant date of 24 September 2025.
+[ ] Agency clarification — confirm whether Kristina's Bulgarian driver licence is required. The original agency checklist consistently refers to subclass 820.
 
 The marriage certificate, health examination and relevant police-check entries were already checked off in your source checklist. No new action has been inferred for them; revisit only if Affinity requests it. Evidence not personally reviewed here remains a status question, not a claim that it has not been provided.
 
@@ -86,7 +86,7 @@ Resolved — Bulgaria June trip: depart 3 June 2026; return departure 16 June; a
 
 Resolved — Bali outbound ticket names Kristina and departs 30 September 2025. Return evidence is the pending item above.
 
-Resolved — solo Sydney work travel is confirmed for 11–14 May 2026 from an itinerary naming Scott as the sole traveller. A 10 November 2025 work activity in Concord West is confirmed, but its travel range and whether Kristina accompanied Scott remain open. The 27 February–1 March 2026 Sydney trip was joint and is excluded from periods apart.
+Resolved — solo Sydney work travel is confirmed for 11–14 May 2026 from an itinerary naming Scott as the sole traveller. The 27 February–1 March 2026 Sydney trip was joint and is excluded from periods apart. A go-kart waiver signed on 10 November 2025 contains the venue's Concord West address but does not establish attendance or travel, so it is excluded.
 
 Resolved — Scott's IOOF beneficiary nomination has been captured. It names Kristina as 100% beneficiary under a binding non-lapsing nomination.
 

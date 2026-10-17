@@ -34,6 +34,5 @@ Suggested working sequence: initiate the witness forms and Kristina’s Form 80;
 
 Already checked off in the source: marriage certificate; health examinations; applicant and sponsor Australian police checks; relevant overseas police-certificate entries. These statuses are carried over from your checklist, not independently verified requirements. Revisit if Affinity requests further action.
 
-Source cleanup to discuss with Affinity: one line says “Subclass 729” while the rest refers to Subclass 820. Original checklist left unchanged.
 
 Relationship statement next steps: access the submitted 820 version in Google Drive; preserve its established history and voice; gather new facts in manageable batches covering home life, finances, social life, travel/time apart, mutual support and future plans. Keep uncertain dates or facts as explicit questions until confirmed. Final declaration format and signing arrangements should follow Affinity’s requested template.

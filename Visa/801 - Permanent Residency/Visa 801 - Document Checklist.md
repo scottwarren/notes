@@ -33,7 +33,7 @@ These are the highest-impact items still requiring work.
 * [x] Scott's IOOF beneficiary nomination captured; Kristina is nominated for 100% under a binding non-lapsing nomination.
 * [x] Car purchase invoice gathered — 2019 Mazda 3, purchased 7 November 2024 from Moreton Bay Ford.
 * [x] Current vehicle registration-related evidence gathered — Mazda 3, NSW registration DN93QA, Scott named as owner on the QBE CTP evidence, registration period commencing 24 April 2026.
-* [x] Sydney travel review completed from available email and calendar evidence: definite solo work trip 11–14 May 2026; work activity in Concord West on 10 November 2025 with surrounding travel dates and whether Kristina accompanied Scott still to be confirmed; joint Sydney trip 27 February–1 March 2026 excluded from periods apart.
+* [x] Sydney travel review completed from available email and calendar evidence: definite solo work trip 11–14 May 2026; joint Sydney trip 27 February–1 March 2026 excluded from periods apart. A go-kart waiver signed on 10 November 2025 does not establish attendance or travel and has been removed from the travel analysis.
 * [x] Mum's witness statement draft received and reviewed; corrections and signing remain.
 * [x] Eighteen curated relationship photos exported from Photos for the timeline, covering August 2025 to July 2026.
 * [x] Three ordinary Messages screenshots gathered for the Bali separation, covering 6–8 October 2025, and uploaded to the Google Drive Contact During Separation folder.
@@ -55,10 +55,10 @@ These are the highest-impact items still requiring work.
 
 * [ ] [P1] -  #scott Updated Statutory Declaration (Relationship Statement) from your Sponsor (Scott) regarding your relationship ("Please update Scott's previous statement with information from 24 Sep 2025 (stage 1 subclass 820 visa grant) to current") #scott — **IN PROGRESS: initial draft prepared; final review, updates and signing remain.**
 * [ ] [P1] #jaya #mum - Form 888 – Statutory declaration by two Australian citizens or permanent residents who have personal knowledge of your partner relationship. ("You may use the same witnesses who completed the Form 888s for the Stage 1 partner visa application. Immigration only requires updated statements confirming their continued knowledge of your relationship.")
-* [ ] [P1] #kristina  #scott provide updated relationship documents since the grant of your Subclass 820 visa (original agency wording says “729”; confirm this correction with Affinity) - From 24th Sep 2025 to current - Examples of documents — **IN PROGRESS: bank, lease, bill, insurance and travel evidence gathered; photos, correspondence, separation contact records and final upload remain.**
-* [ ] [P1] Evidence of joint ownership or real estate or other major assets (e.g. cars, appliances) and any joint liabilities (loans, mortgages, insurance) - that have been acquired or taken out since Sep 2025 if applicable — **PARTIAL: car purchase, insurance and registration-related evidence gathered. The car was purchased before September 2025 and is legally in Scott's name, so confirm with Affinity whether it should be included as contextual household evidence.**
+* [ ] [P1] #kristina  #scott provide updated relationship documents since the grant of your Subclass 820 visa - From 24th Sep 2025 to current - Examples of documents — **IN PROGRESS: bank, lease, bill, insurance and travel evidence gathered; photos, correspondence, separation contact records and final upload remain.**
+* [x] [P1] Evidence of joint ownership or real estate or other major assets (e.g. cars, appliances) and any joint liabilities (loans, mortgages, insurance) acquired or taken out since Sep 2025, if applicable — **NOT APPLICABLE: Scott confirmed that no genuinely joint asset or liability was acquired from 24 September 2025 onward.**
 	* [x] Car purchase and registration facts confirmed: invoice dated 7 November 2024; 2019 Mazda 3; current NSW registration DN93QA; Scott named as owner. Car loan, dog-surgery loan and credit card are solely in Scott's name.
-	* [ ] Confirm whether any genuinely joint asset or liability was acquired from 24 September 2025 onward. If none, record that the category is not applicable rather than overstating sole-name evidence.
+	* [x] No post-grant joint asset or liability to report. Do not overstate the sole-name car or loans as jointly owned.
 * [x] [P1] Sharing of finances - joint bank statements — **GATHERED LOCALLY; upload and final selection remain.**
 	* [x] CBA
 	* [x] 2Up
@@ -106,7 +106,7 @@ These questions are intended to replace vague wording with facts Scott can perso
 
 * [ ] **Kristina's superannuation beneficiary evidence** — Scott has personally seen the nomination in Kristina's AustralianSuper account. Log in with Kristina and capture evidence showing Scott as beneficiary; record the nomination type and percentage if displayed.
 * [x] **Bali contact wording** — use: “We remained in regular contact through messages on most days and video calls when her schedule allowed.” Do not claim daily contact or a specific call count. Three message screenshots from 6–8 October 2025 have been uploaded to Drive.
-* [ ] **Other periods apart** — ask Affinity whether exact dates, durations and separate contact evidence are required for the short absences involving the brother's house move, birthdays, TAFE excursions and Sydney Bats. Definite solo work travel is confirmed for Sydney from 11 to 14 May 2026. The circumstances around the 10 November 2025 Concord West work activity remain unknown; ask Affinity whether this needs to be resolved or included.
+* [ ] **Other periods apart** — ask Affinity whether exact dates, durations and separate contact evidence are required for the short absences involving the brother's house move, birthdays, TAFE excursions and Sydney Bats. Definite solo work travel is confirmed for Sydney from 11 to 14 May 2026.
 * [ ] **Sanctuary role title** — first shift confirmed as 1 October 2026 and first pay confirmed as deposited into joint 2Up. Add the exact role title if it is readily available from the contract or payslip.
 * [x] **Lease extension** — renewal period 27 July 2026 to 25 January 2027 is confirmed by Scott and appears in the lease document.
 * [x] **Scott's work** — use “Software Engineer”; employment commenced 21 October 2024.
@@ -132,8 +132,8 @@ Response space: add answers below the relevant item, using approximate dates whe
 * [x] Shared finances — CBA, 2Up and ING statements have been retrieved with relevant date coverage. ING and the loans remain accurately described as solely held. Upload and final submission selection are tracked above.
 * [ ] Legal commitments — Scott's IOOF nomination is gathered and shows Kristina at 100% under a binding non-lapsing nomination. Locate Kristina's nomination naming Scott and identify any other relevant commitments, if applicable.
 * [x] Utilities — electricity, internet and telephone bills reviewed are in Scott's name; water bills are addressed to the property owner or agent. Gas remains to be confirmed as applicable or not applicable. Do not describe these as jointly held accounts.
-* [ ] Urunga lease — if precise historic tenancy coverage is needed, clarify the scan’s ticked six-month term versus its written end date of 10 February 2025, and any continuation. The commencement date is confirmed as 11 November 2024.
-* [ ] Agency wording — confirm the “Subclass 729” reference means 820 and whether Kristina’s Bulgarian licence is wanted.
+* [ ] Urunga lease — clarify with Scott why the agreement ticks a six-month fixed term but writes an end date of 10 February 2025, and whether the tenancy then continued periodically or under another agreement until the move to Coffs Harbour. The commencement date is confirmed as 11 November 2024.
+* [ ] Agency question — confirm whether Kristina’s Bulgarian licence is wanted.
 * [ ] Wills — establish whether relevant existing wills are available; this is not a task to create new wills.
 * [ ] Optional supporting records — locate course completion certificates, sanctuary contract/payslip, volunteering records and veterinary invoices/loan records where useful. These are supporting suggestions, not additional agency requirements.
 

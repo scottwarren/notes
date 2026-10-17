@@ -39,13 +39,9 @@ This report consolidates the documents, decisions and questions that remain for 
 ## 4. Questions to send to Affinity
 
 * [ ] **Brief periods apart:** Do you require exact dates, durations and contact evidence for short absences such as the brother's house move, birthdays, TAFE excursions and Sydney Bats volunteering, or is a general description sufficient?
-* [ ] **Concord West work activity:** Scott's records place him in Concord West on 10 November 2025, but he cannot presently confirm the surrounding travel dates or whether Kristina accompanied him. Does this need to be resolved or included?
-* [ ] **Assets and liabilities:** No genuinely joint asset or liability has yet been identified as acquired after 24 September 2025. Should this category be marked not applicable? Should the pre-grant car, which is in Scott's name but used as a shared household asset, be included as context?
 * [ ] **Utilities:** The electricity, internet and telephone accounts are in Scott's name, and the water bills are addressed to the owner or agent. Is the shared-address and payment evidence sufficient where no utility is jointly named?
 * [ ] **Gas:** Confirm that this is not applicable to the property.
-* [ ] **Checklist wording:** Confirm that the reference to “Subclass 729” is a typographical error and should say subclass 820.
 * [ ] **Urunga lease:** The agreement ticks a six-month term but contains a written end date of 10 February 2025. Does Affinity require clarification or evidence of the subsequent continuation?
-* [ ] **Wills:** If neither partner has a relevant existing will, should this category simply be marked not applicable?
 
 ## 5. Periods apart and contact evidence
 
@@ -54,7 +50,6 @@ This report consolidates the documents, decisions and questions that remain for 
 * [ ] Add Kristina's Bali return evidence when received.
 * [x] Scott's definite solo Sydney work trip is confirmed as **11–14 May 2026**.
 * [ ] Ask Affinity whether further evidence is required for the solo Sydney trip or the shorter absences.
-* [ ] Resolve the 10 November 2025 Concord West activity only if Affinity considers it necessary.
 
 ## 6. Photo timeline gaps
 
