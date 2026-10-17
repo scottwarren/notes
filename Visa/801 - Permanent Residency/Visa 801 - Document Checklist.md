@@ -14,14 +14,14 @@ This section collects every unresolved action in one place. Work through the fir
 * [ ] **[P1] Mum's witness statement** — the corrected editable Word draft and PDF were emailed to Mum on 18 October 2026. Obtain her corrections or confirmation, then have the final declaration signed and witnessed and collect the identity attachment required by the template.
 * [ ] **[P1] Jaya's witness statement** — the editable draft and the agency's blank template were emailed to Jaya on 18 October 2026. Obtain her corrections or confirmation, then have the final declaration signed and witnessed and collect the identity attachment required by the template.
 * [ ] **[P1] Scott's relationship statement** — complete the final voice and accuracy review, update any remaining facts and the statement date, obtain Affinity's review, then arrange signing.
-* [x] **[P1] Shared-address correspondence** — locate joint correspondence, or separate letters for Scott and Kristina showing the same current address. - none that I know of
+* [x] **[P1] Shared-address correspondence** — locate joint correspondence, or separate letters for Scott and Kristina showing the same current address. - none that I know of, marked as complete
 * [ ] **[P1] Evidence filing and submission selection** — upload any renamed bank statements, bills, car insurance and licence files not yet in the 801 Drive folder, then choose a representative set with useful date coverage - what do you think is missing? 
 
 ### Evidence to obtain or complete
 
-* [ ] **Kristina's Bulgarian national identity card** — add a clear colour copy of the original and an official English translation if the document is not in English.
+* [x] **Kristina's Bulgarian national identity card** — add a clear colour copy of the original and an official English translation if the document is not in English.
 * [ ] **Bali return-flight evidence** — add Kristina's return booking or boarding record for 10 October 2025 when received.
-* [ ] **Relationship photo timeline** — if available, add one or two photos from March–May 2026 and one or two from September–October 2026. If none are useful, ask Affinity whether the present 24-photo timeline is sufficient.
+* [x] **Relationship photo timeline** — if available, add one or two photos from March–May 2026 and one or two from September–October 2026. If none are useful, ask Affinity whether the present 24-photo timeline is sufficient.
 
 ### Questions to send to Affinity
 
