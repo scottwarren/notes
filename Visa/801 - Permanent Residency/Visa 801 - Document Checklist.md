@@ -9,7 +9,7 @@ Updated 18 October 2026. This is the central status checklist. A checked item me
 These are the highest-impact items still requiring work.
 
 * [ ] **[P1] Updated Form 80 for Kristina** — complete and review the form and attachment using the previous version as the base.
-* [ ] **[P1] Two updated Form 888 witness statements** — Mum's draft has been received and reviewed. Jaya's first review draft has now been prepared from her 2024 Form 888 using the current agency template. Both witnesses must confirm their drafts, remove review notes, attach identity evidence as directed, and complete signing and witnessing.
+* [ ] **[P1] Two updated Form 888 witness statements** — Mum's corrected draft has been prepared and emailed to her for confirmation. Jaya's first review draft has been prepared from her 2024 Form 888 using the current agency template. Both witnesses must confirm their drafts, attach identity evidence as directed, and complete signing and witnessing.
 * [ ] **[P1] Finalise Scott's relationship statement** — review the first-pass draft dated 18 October 2026, answer the firm factual confirmations in “Scott's review required now”, obtain Affinity's review and arrange signing.
 * [ ] **[P1] Complete the relationship photo timeline coverage** — Kristina added further photos and 24 curated photos across 16 dates from August 2025 to August 2026 are now in the draft timeline. The new selection adds June–August 2026 family, social and couple photos. If available, add one or two photos from March–May 2026 and one or two from September–October 2026; otherwise ask Affinity whether the present coverage is sufficient.
 * [ ] **[P1] Contact during periods apart** — three ordinary Bali Messages screenshots from 6–8 October 2025 have been gathered and uploaded to Google Drive. Ask Affinity whether separate dates and contact evidence are required for the shorter absences involving family events, TAFE excursions and Sydney Bats; add further evidence only if requested or readily available.
@@ -34,7 +34,7 @@ These are the highest-impact items still requiring work.
 * [x] Car purchase invoice gathered — 2019 Mazda 3, purchased 7 November 2024 from Moreton Bay Ford.
 * [x] Current vehicle registration-related evidence gathered — Mazda 3, NSW registration DN93QA, Scott named as owner on the QBE CTP evidence, registration period commencing 24 April 2026.
 * [x] Sydney travel review completed from available email and calendar evidence: definite solo work trip 11–14 May 2026; joint Sydney trip 27 February–1 March 2026 excluded from periods apart. Scott confirmed that the 10 November 2025 Concord West activity was another solo Sydney work trip, but it is unnecessary for the submission and has been left out.
-* [x] Mum's witness statement draft received and reviewed; corrections and signing remain. Jaya's review draft has been prepared from her 2024 Form 888 in the current agency template.
+* [x] Mum's witness statement was reviewed, corrected and emailed to her as a PDF; her confirmation and signing remain. Jaya's review draft has been prepared from her 2024 Form 888 in the current agency template.
 * [x] Thirty-four relationship photos reviewed from the Photos album. Twenty-four were selected for the draft timeline, covering 16 dates from August 2025 to August 2026.
 * [x] Three ordinary Messages screenshots gathered for the Bali separation, covering 6–8 October 2025, and uploaded to the Google Drive Contact During Separation folder.
 

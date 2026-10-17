@@ -54,7 +54,7 @@ Response space: add answers below the relevant item, using approximate dates whe
 
 [ ] P1 Kristina — update Form 80 using the previous form and attachment as a base; review the complete form for changes.
 
-[ ] P1 Witnesses — Mum's draft has been reviewed. Jaya's first review draft has been prepared from her 2024 Form 888 using the current agency template. Both drafts still need witness confirmation, removal of review notes, identity attachments as directed, and signing/witnessing.
+[ ] P1 Witnesses — Mum's corrected draft has been prepared and emailed to her as a PDF for confirmation. Jaya's first review draft has been prepared from her 2024 Form 888 using the current agency template. Both statements still need witness confirmation, identity attachments as directed, and signing/witnessing.
 
 [x] P1 Scott — current NSW driver’s licence copy gathered, with front and back across two pages.
 

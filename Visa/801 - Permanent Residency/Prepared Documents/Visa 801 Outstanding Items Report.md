@@ -8,7 +8,7 @@ This report consolidates the documents, decisions and questions that remain for 
 ## 1. Highest-priority documents and actions
 
 * [ ] **Updated Form 80 for Kristina** — complete using the previous form and attachment as the base, then review every answer for changes.
-* [ ] **Two updated Form 888 statements** — correct Mum's reviewed draft. Review Jaya's newly prepared draft, confirm the highlighted details, remove the review notes, then arrange identity attachments, signing and witnessing for both statements.
+* [ ] **Two updated Form 888 statements** — obtain Mum's confirmation of the corrected draft already emailed to her. Review Jaya's newly prepared draft and confirm the highlighted details. Then arrange identity attachments, signing and witnessing for both statements.
 * [ ] **Scott's relationship statement** — the confirmed occupation, employment date, sanctuary date, AustralianSuper and Bali-contact wording has been incorporated. Complete Scott's final voice and accuracy review, obtain Affinity's review, update the statement date and arrange signing.
 * [ ] **Relationship photo timeline** — review the updated 24-photo draft. If available, add one or two photos from March–May 2026 and one or two from September–October 2026; otherwise ask Affinity whether the current coverage is sufficient.
 * [ ] **Shared-address correspondence** — locate correspondence addressed jointly, or separate correspondence addressed to Scott and Kristina at the same residential address.
