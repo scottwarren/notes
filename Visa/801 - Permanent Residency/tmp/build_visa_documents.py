@@ -141,7 +141,7 @@ def build_relationship_statement():
     first_cell = doc.tables[0].cell(0, 1)
     for para in first_cell.paragraphs:
         if "Scott Phillip Warren" in para.text:
-            para.text = "I, 1 Scott Phillip Warren, 8/4 Prince Street, Coffs Harbour, NSW 2450, Web Developer,"
+            para.text = "I, 1 Scott Phillip Warren, 8/4 Prince Street, Coffs Harbour, NSW 2450, Software Engineer,"
             for run in para.runs:
                 set_font(run, "Arial", 9)
 

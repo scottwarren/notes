@@ -44,7 +44,7 @@ These are the highest-impact items still requiring work.
 * [ ] Copy of national card
 	* [ ] Kristina Bulgarian national ID
 * [ ] Copy of driver's card
-	* [ ] Kristina's NSW driver's license
+	* [x] Kristina's NSW driver's license
 	* [ ] Kristina's Bulgarian driver's license(?)
 * [x] If your name has changed or the name of anyone in your application has changed. 
 	* [x] Kristina and Scott's marriage certificate

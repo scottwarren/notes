@@ -2,7 +2,7 @@ from pathlib import Path
 from PIL import Image, ImageDraw, ImageOps
 
 ROOT = Path('/Users/scottwarren/projects/notes/Personal/Visa/801 - Permanent Residency/tmp')
-for name in ['render-checklist-updated', 'render-report-updated', 'render-photo-timeline-updated']:
+for name in ['render-checklist-updated', 'render-report-updated', 'render-photo-timeline-updated', 'render-relationship-updated']:
     paths = sorted((ROOT / name).glob('page-*.png'), key=lambda p: int(p.stem.split('-')[-1]))
     cols, tw, th, label = 3, 420, 594, 26
     rows = (len(paths) + cols - 1) // cols

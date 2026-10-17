@@ -4,17 +4,17 @@ Prepared 18 October 2026 for Scott's review. Client reference WaKr-2631-801-3. T
 
 ## History of our relationship and home
 
-1. I am Scott Phillip Warren, and I make this statement in support of my wife Kristina Aleksandrova Warren's application for the permanent Partner visa. We married in Bulgaria on 10 July 2023. This statement updates our life together since her Subclass 820 visa was granted on 24 September 2025.
+1. I am Scott Phillip Warren, and I make this statement in support of my wife Kristina Aleksandrova Warren's application for the permanent Partner visa. Our relationship began in December 2017, and we have lived together since 20 December 2017, apart from temporary periods of travel. We married in Bulgaria on 10 July 2023. Our earlier relationship history was provided with the temporary Partner visa application. This statement focuses on how our genuine and continuing relationship has developed since Kristina's Subclass 820 visa was granted on 24 September 2025.
 
-2. We have continued to live together and build our life in Australia. We arrived in June 2024 and initially stayed with my mum, then with my sister after our dog arrived from Bulgaria. We moved to Urunga under a joint lease commencing on 11 November 2024 so that Kristina could study Exhibited Animal Care at TAFE in Coffs Harbour. We chose the Coffs Harbour area after considering courses in Cairns and Coffs Harbour because it was closer to my family.
+2. We have continued to live together and build our life in Australia. We arrived in June 2024 and initially stayed with my mum for approximately two months, then with my sister for approximately two months after our dog arrived from Bulgaria. We decided to move to the Coffs Harbour area so that Kristina could study Exhibited Animal Care at TAFE. We had considered course options in Cairns and Coffs Harbour and chose Coffs Harbour because it was closer to my family.
 
-3. Finding our first rental was difficult because we had no recent Australian rental history together and I had only recently started a new job. We were excited to have our own home after about four months with family. When we later found a rental in Coffs Harbour itself, I was unwell and Kristina inspected the property and managed the arrangements. We agreed on the move together and hired movers.
+3. Our joint lease at 28 Fitzroy Street, Urunga commenced on 11 November 2024. After the fixed term ended, the tenancy continued periodically until we moved to Coffs Harbour in July 2025. We lived there together with our dog and no other household members. Finding that rental was difficult because we had no recent Australian rental history together and I had only recently started a new job. We were excited to have our own home after approximately four months with family. When we later found a rental in Coffs Harbour itself, I was unwell, so Kristina inspected the property and managed the arrangements. We agreed on the move together and hired movers.
 
 4. Our joint lease at 8/4 Prince Street, Coffs Harbour commenced on 28 July 2025. We have lived there together throughout the period covered by this statement, with our dog as the only other member of our household. We signed a further joint lease for 27 July 2026 to 25 January 2027.
 
 ## Financial responsibilities and commitments
 
-5. I began my current remote job in October 2024 and remain in that role. I was the sole income earner while Kristina studied. She completed Certificate II in Exhibited Animal Care in June 2025 and Certificate III in Exhibited Animal Care in June 2026. She has now started contract work at Coffs Coast Wildlife Sanctuary, with her first shifts around the beginning of October 2026.
+5. I began working remotely as a Software Engineer for Atlassian on 21 October 2024 and remain in that role. I was the sole income earner while Kristina studied. She completed Certificate II in Exhibited Animal Care in June 2025 and Certificate III in Exhibited Animal Care in June 2026. She has now started contract work at Coffs Coast Wildlife Sanctuary, with her first shift on 1 October 2026.
 
 6. We have joint accounts with CBA and 2Up. My salary is divided between the ING account from which I manage our regular bills, our joint 2Up account for everyday spending, and money set aside for larger expenses such as car registration and maintenance. We previously used our joint CBA account for everyday spending. Kristina's earnings are paid into our joint 2Up account.
 
@@ -22,7 +22,7 @@ Prepared 18 October 2026 for Scott's review. Client reference WaKr-2631-801-3. T
 
 8. On 7 November 2024, we bought a 2019 Mazda 3 from Moreton Bay Ford using an unsecured ING personal loan in my name. The vehicle is registered in my name and Kristina is listed as a regular driver on our current insurance. We chose the car and accepted the financial commitment together because it supports our shared life and transport needs.
 
-9. We also jointly decided to borrow money for specialist surgery when our dog developed serious knee problems in 2026. These decisions affected both of us and were made together. I have nominated Kristina as the 100% beneficiary of my IOOF superannuation death benefit under a binding non-lapsing nomination. Kristina has also told me that she has nominated me as her superannuation beneficiary.
+9. When our dog developed serious knee problems in 2026, we paid for his first two surgeries from our joint savings. When his most recent operation required specialist treatment, we jointly decided to take out a loan to pay for it. These were significant financial decisions that affected both of us and were made together. I have nominated Kristina as the 100% beneficiary of my IOOF superannuation death benefit under a binding non-lapsing nomination. I have personally seen that Kristina has nominated me as a beneficiary through her AustralianSuper account.
 
 ## Sharing responsibilities in our household
 
@@ -44,7 +44,7 @@ Prepared 18 October 2026 for Scott's review. Client reference WaKr-2631-801-3. T
 
 ## Nature of our commitment to each other
 
-17. Since the beginning of 2026, our dog has required several major knee surgeries. The most recent operation required a specialist and a loan to pay for the treatment. We made that decision together and have shared his care throughout the stressful recovery periods.
+17. Since the beginning of 2026, our dog has required three major knee surgeries. We paid for the first two surgeries from our joint savings. The most recent operation required specialist treatment, so we jointly decided to take out a loan to pay for it. We have shared his care throughout the stressful recovery periods.
 
 18. Earlier in 2026, when Kristina's father was seriously ill, we discussed what we would do if his condition worsened. Because of the cost, we considered whether Kristina might need to travel to Bulgaria alone. We decided that being there together with our family would be important to both of us.
 
@@ -56,7 +56,7 @@ Prepared 18 October 2026 for Scott's review. Client reference WaKr-2631-801-3. T
 
 21. We travelled to Bulgaria together from 11 December 2025 to 8 January 2026. We travelled there together again following her father's death, departing the Gold Coast on 3 June 2026 and arriving back in Australia on 18 June 2026. For these trips we drove to the Gold Coast together, left our car at my mum's home and arranged a dog sitter.
 
-22. Kristina travelled to Bali with her best friend from 30 September to 10 October 2025, while I remained in Australia. We messaged every day and, as I recall, spoke on FaceTime most nights. It was the longest we had been apart for several years, and neither of us enjoyed the separation.
+22. Kristina travelled to Bali with her best friend from 30 September to 10 October 2025, while I remained in Australia. We remained in regular contact through messages on most days and video calls when her schedule allowed. It was the longest we had been apart for several years, and neither of us enjoyed the separation.
 
 23. I travelled to Sydney without Kristina for work from 11 to 14 May 2026. My itinerary records one adult traveller and three nights in Sydney. This was temporary work travel and did not change our shared home or commitment to each other.
 
@@ -74,8 +74,6 @@ Prepared 18 October 2026 for Scott's review. Client reference WaKr-2631-801-3. T
 
 - Confirm how Scott and Kristina kept in contact during the 11–14 May 2026 Sydney work trip.
 - Add approximate dates and durations for other post-grant periods apart: brother's house move, birthdays, TAFE excursion and Sydney Bats volunteering.
-- Confirm the sanctuary role title and whether to state the first shift as 1 October 2026.
-- Confirm “Web Developer” is still the correct occupation for the declaration form.
-- Add the school friend's wedding only after the couple's names and approximate date are confirmed.
+- Confirm Kristina's exact sanctuary role title if it is readily available from her contract or payslip.
 - Obtain Kristina's superannuation beneficiary evidence naming Scott.
 - Complete a final factual read, then send the statement to Affinity before signing or witnessing it.
