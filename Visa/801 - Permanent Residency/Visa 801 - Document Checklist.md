@@ -10,9 +10,9 @@ These are the highest-impact items still requiring work.
 
 * [ ] **[P1] Updated Form 80 for Kristina** — complete and review the form and attachment using the previous version as the base.
 * [ ] **[P1] Two updated Form 888 witness statements** — Mum's draft has been received and reviewed; correct the issues listed in the review notes, then complete signing and witnessing. Jaya's updated statement is still required.
-* [ ] **[P1] Finalise Scott's relationship statement** — review the first-pass draft dated 18 October 2026, resolve the remaining factual questions, obtain Affinity's review and arrange signing.
-* [ ] **[P1] Complete the relationship photo timeline coverage** — 18 curated photos from August 2025 to July 2026 have been exported and placed into a draft timeline. Add recent photos for August to October 2026 and, if available, ordinary-life photos for the March to May 2026 gap before final submission.
-* [ ] **[P1] Contact during periods apart** — add dated messages or call records for Bali and any other relevant separations after 24 September 2025.
+* [ ] **[P1] Finalise Scott's relationship statement** — review the first-pass draft dated 18 October 2026, answer the firm factual confirmations in “Scott's review required now”, obtain Affinity's review and arrange signing.
+* [ ] **[P1] Complete the relationship photo timeline coverage** — 18 curated photos from August 2025 to July 2026 have been placed into a draft timeline. Ask Kristina for additional candidates covering August–October 2026, March–May 2026 and ordinary life or Australian social occasions; then select approximately 6–8 additions.
+* [ ] **[P1] Contact during periods apart** — three ordinary Bali Messages screenshots from 6–8 October 2025 have been gathered locally. Their upload to Google Drive is pending Scott's explicit approval because they contain private messages. Add evidence for other relevant separations if available.
 * [ ] **[P1] Correspondence to both partners at the shared address** — locate letters or mail addressed jointly, or separate correspondence showing both names at the same address.
 * [ ] **[P1] Legal commitments** — Scott's IOOF beneficiary nomination has been captured and shows Kristina as 100% beneficiary under a binding non-lapsing nomination. Retrieve Kristina's beneficiary nomination and decide whether any other evidence is relevant.
 * [x] **[P1] Car purchase and registration evidence** — purchase invoice dated 7 November 2024 and current registration-related evidence have been gathered. The vehicle and liabilities are in Scott's name; describe them accurately as a shared household asset and joint decision rather than joint legal ownership.
@@ -36,6 +36,7 @@ These are the highest-impact items still requiring work.
 * [x] Sydney travel review completed from available email and calendar evidence: definite solo work trip 11–14 May 2026; work activity in Concord West on 10 November 2025 with surrounding travel dates and whether Kristina accompanied Scott still to be confirmed; joint Sydney trip 27 February–1 March 2026 excluded from periods apart.
 * [x] Mum's witness statement draft received and reviewed; corrections and signing remain.
 * [x] Eighteen curated relationship photos exported from Photos for the timeline, covering August 2025 to July 2026.
+* [x] Three ordinary Messages screenshots gathered locally for the Bali separation, covering 6–8 October 2025. They have not yet been uploaded to Google Drive.
 
 ##  Visa applicant's identity
 
@@ -99,17 +100,26 @@ These are the highest-impact items still requiring work.
 The initial draft is prepared for review. Add replies beneath these items; approximate dates are fine where exact dates are being checked.
 
 
-* [ ] Short periods apart — definite solo work travel is now confirmed for Sydney from 11 to 14 May 2026. Confirm how you kept in contact during that trip. Also supply approximate dates, number of nights, who travelled, who remained home and how you kept in contact for the brother's house move, birthdays, each TAFE excursion and Sydney Bats trip. A work activity places Scott in Concord West on 10 November 2025, but the surrounding travel dates and whether Kristina accompanied him still need confirmation.
+### Scott's review required now
+
+These questions are intended to replace vague wording with facts Scott can personally confirm. Do not state a fact as certain until it is confirmed here or supported by evidence.
+
+* [ ] **Kristina's superannuation beneficiary nomination** — confirm whether Scott has personally seen the nomination. If yes, record the fund, nomination type and percentage if shown. If not, remove the claim from the statement until evidence is obtained.
+* [ ] **Bali contact** — confirm whether messages were exchanged every day and approximately how many FaceTime or phone calls occurred. Replace “as I recall” and “a few times” with the confirmed wording. Three message screenshots from 6–8 October 2025 are available locally.
+* [ ] **Other periods apart** — definite solo work travel is confirmed for Sydney from 11 to 14 May 2026. Confirm how contact was maintained on that trip. Also give approximate dates, number of nights, who travelled, who remained home and how contact was maintained for the brother's house move, birthdays, each TAFE excursion and Sydney Bats trip. A work activity places Scott in Concord West on 10 November 2025; confirm the surrounding travel dates and whether Kristina accompanied him.
+* [ ] **Sanctuary work and income** — confirm Kristina's role title, exact first shift date if known, and whether her first pay has already been deposited into joint 2Up or this is only the intended arrangement.
+* [ ] **Lease extension** — confirm the renewal period is 27 July 2026 to 25 January 2027.
+* [ ] **Scott's work** — confirm “Web Developer” remains the correct occupation and whether the October 2024 start date should be stated more precisely.
+* [ ] **Bereavement timing** — decide whether to state Kristina's father's date of death or keep the timing general. No exact date is needed unless Scott wants it included.
+* [ ] **Final voice and accuracy review** — check that the draft sounds like Scott and is accurate, especially the bereavement, finances, living arrangements and future-plans sections. Update the cutoff date, then send it to Affinity and arrange signing only after the content is final.
+
+### Resolved statement points
 
 * [x] School friend's wedding — Photos metadata confirms 15 August 2025 in Buccan. This was before the 820 grant date, so it remains outside the updated statement. The couple's names are only needed if you choose to add it as earlier social context.
 
 * [x] Car purchase — confirmed from the tax invoice: 7 November 2024, 2019 Mazda 3. Current registration-related evidence shows NSW registration DN93QA and Scott as owner. The ING loan is solely in Scott's name.
 
-* [ ] Sanctuary work — confirm the first shift date if you want it stated exactly (currently “around the beginning of October 2026”), and the role title if useful. Update the reference to two completed shifts when finalising the statement.
-
-* [ ] Bali arrangements — clarify the drive to/from the Gold Coast, where Scott stayed and who cared for the dog, if these details are to be included. The draft currently mentions the car left with Mum and a sitter only for the joint Bulgaria trips.
-
-* [ ] Final read — check the statement sounds like Scott and is accurate, including the bereavement paragraph, finances and future plans. Confirm “Web Developer” remains an appropriate occupation in the agency template. Review with Affinity, update the cutoff date and arrange signing only after the content is final.
+* [x] Bali travel arrangements — Scott and Kristina drove to the Gold Coast together and left the car at Scott's mum's house. Kristina travelled alone; Scott remained in Australia. A dog sitter was arranged. Add these details only where they improve the account.
 
 Response space: add answers below the relevant item, using approximate dates where exact dates are still being checked.
 
@@ -118,7 +128,7 @@ Response space: add answers below the relevant item, using approximate dates whe
 
 * [ ] Bali return ticket — already requested from Kristina; add to Evidence when received. Return date supplied is 10 October 2025.
 * [ ] Joint travel — December and June Bulgaria flight records have been reviewed. Add available accommodation details and photos where helpful. No extra December passenger record is requested: Scott confirmed both travelled and the booking is for two travellers.
-* [ ] Contact during separation — select dated messages/call records from Bali and relevant other periods apart for the P1 item above.
+* [ ] Contact during separation — three dated Bali Messages screenshots from 6–8 October 2025 are gathered locally. Uploading these private screenshots to the Drive Evidence folder remains pending Scott's explicit approval. Add dated evidence from other periods apart if available.
 * [x] Shared finances — CBA, 2Up and ING statements have been retrieved with relevant date coverage. ING and the loans remain accurately described as solely held. Upload and final submission selection are tracked above.
 * [ ] Legal commitments — Scott's IOOF nomination is gathered and shows Kristina at 100% under a binding non-lapsing nomination. Locate Kristina's nomination naming Scott and identify any other relevant commitments, if applicable.
 * [x] Utilities — electricity, internet and telephone bills reviewed are in Scott's name; water bills are addressed to the property owner or agent. Gas remains to be confirmed as applicable or not applicable. Do not describe these as jointly held accounts.
@@ -126,6 +136,18 @@ Response space: add answers below the relevant item, using approximate dates whe
 * [ ] Agency wording — confirm the “Subclass 729” reference means 820 and whether Kristina’s Bulgarian licence is wanted.
 * [ ] Wills — establish whether relevant existing wills are available; this is not a task to create new wills.
 * [ ] Optional supporting records — locate course completion certificates, sanctuary contract/payslip, volunteering records and veterinary invoices/loan records where useful. These are supporting suggestions, not additional agency requirements.
+
+## Photo timeline review and gaps
+
+The current draft contains 18 photos across 10 dates. Coverage is strongest around the December 2025 Bulgaria trip and is thinner for ordinary life in Australia.
+
+* [ ] **Highest priority: August–October 2026** — add two or three recent photos showing the relationship continuing to the current date.
+* [ ] **March–May 2026 gap** — add two or three photos if available.
+* [ ] **September–November 2025** — add one or two photos, ideally after Kristina returned from Bali.
+* [ ] **Ordinary shared life** — add one or two photos at home, walking or caring for the dog, cooking, or doing everyday activities together.
+* [ ] **Australian family and friends** — add one or two photos from social occasions in Australia if available.
+* [ ] **Milestones** — consider one photo from TAFE completion, sanctuary work or volunteering if it naturally includes both partners or shows mutual support.
+* [ ] Ask Kristina for approximately 8–12 candidate photos, then select 6–8 additions. Prioritise missing periods and settings rather than adding more Christmas duplicates or near-identical selfies.
 
 ## Confirmed facts and evidence review notes
 

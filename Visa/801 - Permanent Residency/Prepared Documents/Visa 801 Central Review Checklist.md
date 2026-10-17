@@ -4,17 +4,27 @@ Updated 18 October 2026. Use this as the central place to record remaining answe
 
 ## Confirmations for the statement
 
-[ ] Short periods apart — a definite solo Sydney work trip is confirmed for 11–14 May 2026. Confirm how you kept in contact during that trip. A work activity also places Scott in Concord West on 10 November 2025, but confirm the surrounding dates and whether Kristina accompanied him. For the brother's house move, birthdays, each TAFE excursion and Sydney Bats trip, provide approximate dates, number of nights, who travelled, who remained home and how you kept in contact.
+[ ] Kristina's superannuation beneficiary nomination — confirm whether Scott has personally seen it. If yes, record the fund, nomination type and percentage if shown. If not, remove the claim from the statement until evidence is obtained.
+
+[ ] Bali contact — confirm whether you exchanged messages every day and approximately how many FaceTime or phone calls occurred. Replace “as I recall” and “a few times” with confirmed wording. Three ordinary screenshots from 6–8 October 2025 have been gathered locally.
+
+[ ] Other periods apart — a definite solo Sydney work trip is confirmed for 11–14 May 2026. Confirm how you kept in contact during that trip. A work activity also places Scott in Concord West on 10 November 2025; confirm the surrounding dates and whether Kristina accompanied him. For the brother's house move, birthdays, each TAFE excursion and Sydney Bats trip, give approximate dates, number of nights, who travelled, who remained home and how contact was maintained.
 
 [x] School friend's wedding — Photos metadata confirms 15 August 2025 in Buccan. This was before the 820 grant date, so it remains outside the updated statement. The couple's names are only needed if you choose to add it as earlier social context.
 
 [x] Car purchase — tax invoice confirms 7 November 2024 for a 2019 Mazda 3. Current registration-related evidence shows NSW registration DN93QA and Scott as owner. The ING loan is solely in Scott's name.
 
-[ ] Sanctuary work — confirm the first shift date if you want it stated exactly (currently “around the beginning of October 2026”), and the role title if useful. Update the reference to two completed shifts when finalising the statement.
+[ ] Sanctuary work and income — confirm Kristina's role title, exact first shift date if known, and whether her first pay has already been deposited into joint 2Up or this is only the intended arrangement.
 
-[ ] Bali arrangements — clarify the drive to/from the Gold Coast, where Scott stayed and who cared for the dog, if these details are to be included. The draft currently mentions the car left with Mum and a sitter only for the joint Bulgaria trips.
+[x] Bali arrangements — Scott and Kristina drove to the Gold Coast together and left the car at Scott's mum's house. Kristina travelled alone, Scott remained in Australia and a dog sitter was arranged.
 
-[ ] Final read — check the statement sounds like Scott and is accurate, including the bereavement paragraph, finances and future plans. Confirm “Web Developer” remains an appropriate occupation in the agency template. Review with Affinity, update the cutoff date and arrange signing only after the content is final.
+[ ] Lease extension — confirm the renewal period is 27 July 2026 to 25 January 2027.
+
+[ ] Scott's work — confirm “Web Developer” remains the correct occupation and whether the October 2024 start date should be stated more precisely.
+
+[ ] Bereavement timing — decide whether to include Kristina's father's exact date of death or keep the timing general.
+
+[ ] Final read — check the statement sounds like Scott and is accurate, especially the bereavement, finances, living arrangements and future plans. Review with Affinity, update the cutoff date and arrange signing only after the content is final.
 
 Response space: add answers below the relevant item, using approximate dates where exact dates are still being checked.
 
@@ -22,19 +32,19 @@ Response space: add answers below the relevant item, using approximate dates whe
 
 [ ] Bali return ticket — already requested from Kristina. Upload when received; 10 October 2025 remains the return date supplied by Scott.
 
-[ ] P1 Joint bank statements — CBA and 2Up, covering the relevant period from 24 September 2025 onwards. Include account-holder details and date coverage.
+[x] P1 Joint bank statements — CBA and 2Up statements have been gathered with relevant date coverage. Final submission selection and Drive filing remain part of the upload task.
 
-[ ] P1 Shared household expenses — rent, insurance, utilities, groceries and other household payments. ING records can show how Scott pays shared expenses; identify the account accurately as solely held. Loan repayment records may help explain shared decisions without describing the debts as jointly held.
+[x] P1 Shared household expenses — rent, insurance, utilities and ING household-expense statements have been gathered. Identify ING accurately as solely held. Final submission selection and Drive filing remain part of the upload task.
 
-[ ] P1 Utilities and shared address — electricity, gas and telephone accounts where applicable, plus dated correspondence showing your shared address. Identify the actual names on each account; do not assume joint ownership.
+[ ] P1 Utilities and shared address — electricity, internet, telephone and water evidence has been gathered. Electricity, internet and phone are in Scott's name; water is addressed to the owner or agent. Confirm gas is not applicable and locate correspondence addressed jointly, or separate correspondence to each partner at the same address.
 
 [ ] P1 Assets and liabilities — car invoice, insurance and registration-related evidence are gathered, but the car was purchased before September 2025 and is legally in Scott's name. Confirm whether any genuinely joint asset or liability was acquired from 24 September 2025 onward; otherwise ask Affinity to mark this category not applicable.
 
 [ ] P1 Legal commitments — leases and Scott's IOOF beneficiary nomination are gathered. Kristina is shown as Scott's 100% beneficiary under a binding non-lapsing nomination. Retrieve Kristina's nomination naming Scott and identify any other relevant commitments, if applicable.
 
-[ ] P1 Contact during separation — select dated messages/call records from Bali and relevant other periods apart. You have already described daily messages and FaceTime on most nights in Bali.
+[ ] P1 Contact during separation — three dated Bali Messages screenshots from 6–8 October 2025 have been gathered locally. Their Google Drive upload is pending Scott's explicit approval because they contain private messages. Add evidence for other periods apart if available.
 
-[ ] P1 Photo timeline — 18 photos from the curated Photos album have been exported and placed into a draft timeline, covering August 2025 to July 2026. Add recent photos for August to October 2026 and, if available, ordinary-life photos for the March to May 2026 gap before final submission.
+[ ] P1 Photo timeline — 18 photos across 10 dates are in the draft. Ask Kristina for 8–12 candidates and select approximately 6–8 additions: two or three from August–October 2026, two or three from March–May 2026, one or two from September–November 2025, and a small number showing ordinary life or Australian family and friends. Avoid more Christmas duplicates and near-identical selfies.
 
 [ ] P1 Joint travel — flight records are located and reviewed. Add accommodation/itineraries/photos already available where helpful. Scott confirms both Bulgaria trips were together; no extra December passenger document is being requested merely because the booking summary names only Scott.
 
@@ -46,7 +56,7 @@ Response space: add answers below the relevant item, using approximate dates whe
 
 [ ] P1 Witnesses — obtain two updated Form 888s. Jaya and Mum are the people tagged in the original checklist; confirm the intended witnesses and track both responses.
 
-[ ] P1 Scott — provide current NSW driver’s licence copy.
+[x] P1 Scott — current NSW driver’s licence copy gathered, with front and back across two pages.
 
 [ ] Identity — current passport biographical pages for Kristina and Scott (and any other included applicant), Kristina’s Bulgarian national ID and NSW licence. Confirm with Affinity whether her Bulgarian licence is also wanted.
 
