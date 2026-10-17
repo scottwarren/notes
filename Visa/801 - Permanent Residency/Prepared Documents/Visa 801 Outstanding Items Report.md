@@ -8,31 +8,32 @@ This report consolidates the documents, decisions and questions that remain for 
 ## 1. Highest-priority documents and actions
 
 * [ ] **Updated Form 80 for Kristina** — complete using the previous form and attachment as the base, then review every answer for changes.
-* [ ] **Two updated Form 888 statements** — correct Mum's reviewed draft, then arrange signing and witnessing. Obtain Jaya's updated statement and arrange signing and witnessing.
+* [ ] **Two updated Form 888 statements** — correct Mum's reviewed draft. Review Jaya's newly prepared draft, confirm the highlighted details, remove the review notes, then arrange identity attachments, signing and witnessing for both statements.
 * [ ] **Scott's relationship statement** — the confirmed occupation, employment date, sanctuary date, AustralianSuper and Bali-contact wording has been incorporated. Complete Scott's final voice and accuracy review, obtain Affinity's review, update the statement date and arrange signing.
 * [ ] **Relationship photo timeline** — review the updated 24-photo draft. If available, add one or two photos from March–May 2026 and one or two from September–October 2026; otherwise ask Affinity whether the current coverage is sufficient.
-* [ ] **Kristina's AustralianSuper beneficiary evidence** — log in with Kristina and capture a clear page showing Scott as beneficiary. Record the nomination type and percentage if displayed.
 * [ ] **Shared-address correspondence** — locate correspondence addressed jointly, or separate correspondence addressed to Scott and Kristina at the same residential address.
 * [ ] **Final evidence upload and selection** — ensure the gathered statements, bills, leases, insurance, identification and supporting evidence are in the 801 Drive folder, then choose a representative submission set with useful date coverage.
 
 ## 2. Identity and application documents still required
 
-* [ ] Current passport biographical page for Kristina.
-* [ ] Current passport biographical page for Scott.
+* [x] Current passport biographical page for Kristina — added to Evidence.
+* [x] Current passport biographical page for Scott — added to Evidence.
 * [ ] Kristina's Bulgarian national identity card.
-* [ ] Kristina's current NSW driver licence.
+* [x] Kristina's current NSW driver licence — added to Evidence.
 * [ ] Confirm with Affinity whether Kristina's Bulgarian driver licence is required.
-* [ ] Subclass 820 grant letter.
+* [x] Subclass 820 grant letter — filed locally and uploaded to Evidence.
 * [ ] Bali return-flight evidence for Kristina, if not yet received and filed.
 
 ## 3. Relationship statement facts now confirmed
+
+* [x] Social details added: Bad Bunny concert in Sydney in February 2026; whale watching with Kristina's friends in August 2026; January 2026 time with Kristina's friend and her husband; closer family relationships maintained mainly by telephone and video calls; and Kristina's local friendship group in Coffs Harbour.
 
 * [x] Kristina's first sanctuary shift was **1 October 2026**.
 * [x] Kristina has received pay into the joint **2Up** account.
 * [x] Scott's occupation should be stated as **Software Engineer**. Employment commenced **21 October 2024**.
 * [x] The lease renewal period is **27 July 2026 to 25 January 2027**, as shown in the lease document.
 * [x] During the Bali separation, Scott and Kristina remained in regular contact through messages on most days and video calls when Kristina's schedule allowed. The statement should not claim daily messages or a specific number of calls.
-* [x] Scott has personally seen that he is a beneficiary of Kristina's AustralianSuper account. Documentary evidence remains to be captured.
+* [x] Kristina's AustralianSuper beneficiary evidence naming Scott has been added to Evidence.
 * [x] The date of Kristina's father's death can remain general in the relationship narrative unless Affinity requests the exact date or Scott chooses to include it.
 * [ ] Obtain Kristina's exact sanctuary role title from her contract or payslip if readily available.
 
@@ -57,7 +58,7 @@ The updated draft contains 24 photos across 16 dates from August 2025 to August 
 * [x] Add recent photos through **August 2026**.
 * [ ] If available, add one or two photos from **March–May 2026**.
 * [ ] If available, add one or two photos from **September–October 2026**.
-* [x] Add broader ordinary-activity and social coverage, including walking, sailing and time with friends.
+* [x] Add broader ordinary-activity and social coverage, including walking, whale watching and time with friends.
 * [x] Add Australian social photos with family or friends.
 * [ ] Consider a TAFE, sanctuary or volunteering milestone photo if it naturally supports the relationship narrative.
 
@@ -72,7 +73,7 @@ If no suitable photos exist for the remaining gaps, ask Affinity whether the cur
 * [x] Scott's NSW driver licence, including front and back.
 * [x] Joint Bulgaria flight evidence for both trips.
 * [x] Car invoice, insurance and registration-related evidence.
-* [x] Scott's IOOF beneficiary evidence naming Kristina as 100% beneficiary under a binding non-lapsing nomination.
+* [x] Superannuation beneficiary evidence for both partners; Scott's IOOF nomination names Kristina as 100% beneficiary under a binding non-lapsing nomination.
 * [x] Three Bali contact screenshots uploaded to Drive.
 * [ ] Check that each selected submission file is clear, complete, in colour where applicable, not password-protected and ends with **WaKr-2631-801-3**.
 

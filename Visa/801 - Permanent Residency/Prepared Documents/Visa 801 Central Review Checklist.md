@@ -4,7 +4,7 @@ Updated 18 October 2026. Use this as the central place to record remaining answe
 
 ## Confirmations for the statement
 
-[ ] Kristina's superannuation beneficiary evidence — Scott has personally seen the nomination in Kristina's AustralianSuper account. Log in with Kristina and capture evidence showing Scott as beneficiary; record the nomination type and percentage if displayed.
+[x] Kristina's AustralianSuper beneficiary evidence has been added to Evidence; no further review is requested.
 
 [x] Bali contact wording — use: “We remained in regular contact through messages on most days and video calls when her schedule allowed.” Do not claim daily contact or a specific call count. Three ordinary screenshots from 6–8 October 2025 have been uploaded to Drive.
 
@@ -40,7 +40,7 @@ Response space: add answers below the relevant item, using approximate dates whe
 
 [x] P1 Assets and liabilities — not applicable for the post-grant period. Scott confirmed that no genuinely joint asset or liability was acquired from 24 September 2025 onward. The pre-grant car and sole-name loans should not be overstated as jointly owned.
 
-[ ] P1 Legal commitments — leases and Scott's IOOF beneficiary nomination are gathered. Kristina is shown as Scott's 100% beneficiary under a binding non-lapsing nomination. Retrieve Kristina's nomination naming Scott and identify any other relevant commitments, if applicable.
+[x] P1 Legal commitments — joint leases and superannuation beneficiary evidence for both partners have been gathered.
 
 [x] P1 Contact during separation — three dated Bali Messages screenshots from 6–8 October 2025 have been uploaded to the Drive Contact During Separation folder. Ask Affinity whether further records are required for brief absences.
 
@@ -54,13 +54,13 @@ Response space: add answers below the relevant item, using approximate dates whe
 
 [ ] P1 Kristina — update Form 80 using the previous form and attachment as a base; review the complete form for changes.
 
-[ ] P1 Witnesses — obtain two updated Form 888s. Jaya and Mum are the people tagged in the original checklist; confirm the intended witnesses and track both responses.
+[ ] P1 Witnesses — Mum's draft has been reviewed. Jaya's first review draft has been prepared from her 2024 Form 888 using the current agency template. Both drafts still need witness confirmation, removal of review notes, identity attachments as directed, and signing/witnessing.
 
 [x] P1 Scott — current NSW driver’s licence copy gathered, with front and back across two pages.
 
-[ ] Identity — current passport biographical pages for Kristina and Scott (and any other included applicant), Kristina’s Bulgarian national ID and NSW licence. Confirm with Affinity whether her Bulgarian licence is also wanted.
+[ ] Identity — current passport biographical pages for Kristina and Scott and Kristina's NSW licence have been added to Evidence. Kristina's Bulgarian national ID remains outstanding. Confirm with Affinity whether her Bulgarian licence is also wanted.
 
-[ ] Grant letter — provide the Subclass 820 grant letter.
+[x] Grant letter — the Subclass 820 grant letter dated 24 September 2025 has been filed locally and uploaded to Evidence.
 
 [ ] Agency clarification — confirm whether Kristina's Bulgarian driver licence is required. The original agency checklist consistently refers to subclass 820.
 
@@ -86,11 +86,11 @@ Resolved — Bali outbound ticket names Kristina and departs 30 September 2025. 
 
 Resolved — solo Sydney work travel is confirmed for 11–14 May 2026 from an itinerary naming Scott as the sole traveller. The 27 February–1 March 2026 Sydney trip was joint and is excluded from periods apart. Scott confirmed that the 10 November 2025 Concord West activity was another solo Sydney work trip, but it is unnecessary for the submission and has been left out.
 
-Resolved — Scott's IOOF beneficiary nomination has been captured. It names Kristina as 100% beneficiary under a binding non-lapsing nomination.
+Resolved — superannuation beneficiary evidence has been gathered for both partners. Scott's IOOF nomination names Kristina as 100% beneficiary under a binding non-lapsing nomination.
 
 Resolved — car invoice and registration-related evidence are gathered. Purchase date is 7 November 2024; current NSW registration is DN93QA; Scott is named as owner.
 
-Resolved — England wedding did not proceed and is removed. Christmas 2024 is clearly earlier context. Current plans for Sydney, a home in 3–4 years and ongoing conversations about children are incorporated. The superannuation home-deposit wording records your intention, not an eligibility assessment.
+Resolved — the social section now records the February 2026 Bad Bunny concert in Sydney, the August 2026 whale-watching outing with Kristina's friends, time with Kristina's friend and her husband in January 2026, and ongoing family and friendship contact since the move to Coffs Harbour. Christmas 2024 remains earlier context. Current plans for Sydney, a home in 3–4 years and ongoing conversations about children are incorporated. The superannuation home-deposit wording records your intention, not an eligibility assessment.
 
 ## Where the source documents are stored
 
