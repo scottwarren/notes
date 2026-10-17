@@ -101,7 +101,7 @@ The initial draft is prepared for review. Add replies beneath these items; appro
 
 * [ ] Short periods apart — definite solo work travel is now confirmed for Sydney from 11 to 14 May 2026. Confirm how you kept in contact during that trip. Also supply approximate dates, number of nights, who travelled, who remained home and how you kept in contact for the brother's house move, birthdays, each TAFE excursion and Sydney Bats trip. A work activity places Scott in Concord West on 10 November 2025, but the surrounding travel dates and whether Kristina accompanied him still need confirmation.
 
-* [ ] School friend’s wedding — provide the couple’s names and approximate date. This event has been left out until its timing is known.
+* [x] School friend's wedding — Photos metadata confirms 15 August 2025 in Buccan. This was before the 820 grant date, so it remains outside the updated statement. The couple's names are only needed if you choose to add it as earlier social context.
 
 * [x] Car purchase — confirmed from the tax invoice: 7 November 2024, 2019 Mazda 3. Current registration-related evidence shows NSW registration DN93QA and Scott as owner. The ING loan is solely in Scott's name.
 
