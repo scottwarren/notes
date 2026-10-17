@@ -14,8 +14,8 @@ This section collects every unresolved action in one place. Work through the fir
 * [ ] **[P1] Mum's witness statement** — the corrected editable Word draft and PDF were emailed to Mum on 18 October 2026. Obtain her corrections or confirmation, then have the final declaration signed and witnessed and collect the identity attachment required by the template.
 * [ ] **[P1] Jaya's witness statement** — the editable draft and the agency's blank template were emailed to Jaya on 18 October 2026. Obtain her corrections or confirmation, then have the final declaration signed and witnessed and collect the identity attachment required by the template.
 * [ ] **[P1] Scott's relationship statement** — complete the final voice and accuracy review, update any remaining facts and the statement date, obtain Affinity's review, then arrange signing.
-* [ ] **[P1] Shared-address correspondence** — locate joint correspondence, or separate letters for Scott and Kristina showing the same current address.
-* [ ] **[P1] Evidence filing and submission selection** — upload any renamed bank statements, bills, car insurance and licence files not yet in the 801 Drive folder, then choose a representative set with useful date coverage.
+* [x] **[P1] Shared-address correspondence** — locate joint correspondence, or separate letters for Scott and Kristina showing the same current address. - none that I know of
+* [ ] **[P1] Evidence filing and submission selection** — upload any renamed bank statements, bills, car insurance and licence files not yet in the 801 Drive folder, then choose a representative set with useful date coverage - what do you think is missing? 
 
 ### Evidence to obtain or complete
 
