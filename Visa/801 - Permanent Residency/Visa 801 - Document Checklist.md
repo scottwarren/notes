@@ -58,8 +58,7 @@ These are the highest-impact items still requiring work.
 * [ ] [P1] Legal commitments that you and your partner have undertaken as a couple — **PARTIAL: joint leases gathered; superannuation beneficiary nominations remain.**
 * [x] [P1] Sharing of household bills and expenses (e.g. utility bills, rent payments, groceries, household purchases, or other shared living expenses). Since Sep 2025 if applicable — **BANK, RENT, INSURANCE AND UTILITY EVIDENCE GATHERED LOCALLY; upload and submission selection remain.**
 * [x] [P1] Joint ownership or joint rental of the house in which you live
-	* [x] Lease agreement — Urunga and initial Coffs Harbour agreements gathered.
-	* [x] Tenancy agreement — Coffs Harbour extension gathered, 27 July 2026–25 January 2027.
+	* [x] Lease evidence — Urunga and initial Coffs Harbour agreements gathered, together with the Coffs Harbour extension for 27 July 2026–25 January 2027.
 * [ ] [P1] Joint utilities accounts since Sep 2025 — **NO JOINTLY NAMED UTILITY ACCOUNT IDENTIFIED. Use the gathered bills as shared-address or household-expense evidence and describe the account holders accurately.**
 	* [x] Electricity bills gathered — account is in Scott's name.
 	* [ ] Gas — confirm whether not applicable.

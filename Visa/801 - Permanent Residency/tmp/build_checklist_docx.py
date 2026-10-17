@@ -121,10 +121,7 @@ def build() -> None:
         run.font.color.rgb = RGBColor(90, 90, 90)
 
     footer = section.footer
-    fp = footer.paragraphs[0]
-    add_page_number(fp)
-    for run in fp.runs:
-        run.font.color.rgb = RGBColor(90, 90, 90)
+    footer.paragraphs[0].text = ""
 
     lines = SOURCE.read_text(encoding="utf-8").splitlines()
     current_section = ""

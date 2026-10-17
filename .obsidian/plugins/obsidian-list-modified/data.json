@@ -318,6 +318,61 @@
       "path": "Visa/801 - Permanent Residency/tmp/checklist-render-v3/page-5.png",
       "supposedList": "created",
       "matchesCriteria": false
+    },
+    {
+      "path": "Visa/801 - Permanent Residency/tmp/checklist-render-v4/Visa 801 Document Checklist.pdf",
+      "supposedList": "created",
+      "matchesCriteria": false
+    },
+    {
+      "path": "Visa/801 - Permanent Residency/tmp/checklist-render-v4/page0002-2.png",
+      "supposedList": "deleted",
+      "matchesCriteria": false
+    },
+    {
+      "path": "Visa/801 - Permanent Residency/tmp/checklist-render-v4/page0005-5.png",
+      "supposedList": "deleted",
+      "matchesCriteria": false
+    },
+    {
+      "path": "Visa/801 - Permanent Residency/tmp/checklist-render-v4/page0003-3.png",
+      "supposedList": "deleted",
+      "matchesCriteria": false
+    },
+    {
+      "path": "Visa/801 - Permanent Residency/tmp/checklist-render-v4/page0001-1.png",
+      "supposedList": "deleted",
+      "matchesCriteria": false
+    },
+    {
+      "path": "Visa/801 - Permanent Residency/tmp/checklist-render-v4/page0004-4.png",
+      "supposedList": "deleted",
+      "matchesCriteria": false
+    },
+    {
+      "path": "Visa/801 - Permanent Residency/tmp/checklist-render-v4/page-1.png",
+      "supposedList": "created",
+      "matchesCriteria": false
+    },
+    {
+      "path": "Visa/801 - Permanent Residency/tmp/checklist-render-v4/page-2.png",
+      "supposedList": "created",
+      "matchesCriteria": false
+    },
+    {
+      "path": "Visa/801 - Permanent Residency/tmp/checklist-render-v4/page-3.png",
+      "supposedList": "created",
+      "matchesCriteria": false
+    },
+    {
+      "path": "Visa/801 - Permanent Residency/tmp/checklist-render-v4/page-4.png",
+      "supposedList": "created",
+      "matchesCriteria": false
+    },
+    {
+      "path": "Visa/801 - Permanent Residency/tmp/checklist-render-v4/page-5.png",
+      "supposedList": "created",
+      "matchesCriteria": false
     }
   ]
 }
