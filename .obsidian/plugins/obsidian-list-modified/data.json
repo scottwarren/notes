@@ -53,6 +53,86 @@
       "path": "Visa/801 - Permanent Residency/tmp/pdfs/licence-ambiguous-second-page2.png",
       "supposedList": "created",
       "matchesCriteria": false
+    },
+    {
+      "path": "Visa/801 - Permanent Residency/tmp/pdfs/decrypt_pdfs.py",
+      "supposedList": "created",
+      "matchesCriteria": false
+    },
+    {
+      "path": "Visa/801 - Permanent Residency/tmp/pdfs/decrypted/01-cba-2026-07-31-to-2026-08-28-cba-joint-scott-kristina.pdf",
+      "supposedList": "created",
+      "matchesCriteria": false
+    },
+    {
+      "path": "Visa/801 - Permanent Residency/tmp/pdfs/decrypted/02-cba-2025-08-25-to-2026-02-28-cba-joint-scott-kristina.pdf",
+      "supposedList": "created",
+      "matchesCriteria": false
+    },
+    {
+      "path": "Visa/801 - Permanent Residency/tmp/pdfs/decrypted/03-cba-2026-03-01-to-2026-07-30-cba-joint-scott-kristina.pdf",
+      "supposedList": "created",
+      "matchesCriteria": false
+    },
+    {
+      "path": "Visa/801 - Permanent Residency/tmp/pdfs/decrypted/04-Prince-street-Coffs-lease-extension-2026.pdf",
+      "supposedList": "created",
+      "matchesCriteria": false
+    },
+    {
+      "path": "Visa/801 - Permanent Residency/tmp/pdfs/decrypted/05-Prince-street-Coffs-initial-lease-12-months-07:2025-07-2026.pdf",
+      "supposedList": "created",
+      "matchesCriteria": false
+    },
+    {
+      "path": "Visa/801 - Permanent Residency/tmp/pdfs/decryption-check/cba-2026-07-31-first.png",
+      "supposedList": "created",
+      "matchesCriteria": false
+    },
+    {
+      "path": "Visa/801 - Permanent Residency/tmp/pdfs/decryption-check/cba-2026-07-31-last.png",
+      "supposedList": "created",
+      "matchesCriteria": false
+    },
+    {
+      "path": "Visa/801 - Permanent Residency/tmp/pdfs/decryption-check/cba-2025-08-25-first.png",
+      "supposedList": "created",
+      "matchesCriteria": false
+    },
+    {
+      "path": "Visa/801 - Permanent Residency/tmp/pdfs/decryption-check/cba-2025-08-25-last.png",
+      "supposedList": "created",
+      "matchesCriteria": false
+    },
+    {
+      "path": "Visa/801 - Permanent Residency/tmp/pdfs/decryption-check/cba-2026-03-01-first.png",
+      "supposedList": "created",
+      "matchesCriteria": false
+    },
+    {
+      "path": "Visa/801 - Permanent Residency/tmp/pdfs/decryption-check/cba-2026-03-01-last.png",
+      "supposedList": "created",
+      "matchesCriteria": false
+    },
+    {
+      "path": "Visa/801 - Permanent Residency/tmp/pdfs/decryption-check/lease-extension-first.png",
+      "supposedList": "created",
+      "matchesCriteria": false
+    },
+    {
+      "path": "Visa/801 - Permanent Residency/tmp/pdfs/decryption-check/lease-extension-last.png",
+      "supposedList": "created",
+      "matchesCriteria": false
+    },
+    {
+      "path": "Visa/801 - Permanent Residency/tmp/pdfs/decryption-check/lease-initial-first.png",
+      "supposedList": "created",
+      "matchesCriteria": false
+    },
+    {
+      "path": "Visa/801 - Permanent Residency/tmp/pdfs/decryption-check/lease-initial-last.png",
+      "supposedList": "created",
+      "matchesCriteria": false
     }
   ]
 }
