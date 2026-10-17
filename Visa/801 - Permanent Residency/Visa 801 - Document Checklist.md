@@ -40,7 +40,7 @@ These are the highest-impact items still requiring work.
 
 ##  Visa applicant's identity
 
-* [ ] Copy of the biographical pages of current passports of all people included in the application (photo, personal details, issue/expiry dates)
+* [x] Copy of the biographical pages of current passports of all people included in the application (photo, personal details, issue/expiry dates)
 * [ ] Copy of national card
 	* [ ] Kristina Bulgarian national ID
 * [ ] Copy of driver's card
