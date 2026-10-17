@@ -28,6 +28,21 @@
       "path": "Visa/801 - Permanent Residency/tmp/pdfs/licence-ambiguous-second.png",
       "supposedList": "created",
       "matchesCriteria": false
+    },
+    {
+      "path": "Visa/801 - Permanent Residency/tmp/pdfs/car-insurance.png",
+      "supposedList": "created",
+      "matchesCriteria": false
+    },
+    {
+      "path": "Visa/801 - Permanent Residency/tmp/pdfs/water-2026-08-20.png",
+      "supposedList": "created",
+      "matchesCriteria": false
+    },
+    {
+      "path": "Visa/801 - Permanent Residency/Document Rename Proposal - WaKr-2631-801-3.md",
+      "supposedList": "created",
+      "matchesCriteria": true
     }
   ]
 }
