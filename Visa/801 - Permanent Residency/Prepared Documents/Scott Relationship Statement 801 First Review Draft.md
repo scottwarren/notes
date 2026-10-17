@@ -36,7 +36,7 @@ Prepared 18 October 2026 for Scott's review. Client reference WaKr-2631-801-3. T
 
 13. We have both been exercising more over the past year. We enjoy long evening walks together because they give us time to talk and feel close. On some weekends we walk in different places around Coffs Harbour. Other weekends are quieter, particularly when I need to recover from stress at work.
 
-14. We eat together and often watch television together. We recently finished Peaky Blinders. We watched the first season of The White Lotus during a long flight and recently started the second season. Kristina also volunteers with WIRES and sometimes spends weekends helping animals.
+14. Since moving to Coffs Harbour, Kristina has developed a strong local group of friends. In January 2026 we spent time with one of her friends and her friend's husband. In February 2026 we travelled to Sydney together to attend the Bad Bunny concert, and in August 2026 we went whale watching with some of Kristina's friends. Most of my friends and family live elsewhere, but our relationships with my side of the family have grown closer. Because of the distance, we mostly stay in contact with them by telephone and video calls. Kristina also volunteers with WIRES and sometimes spends weekends helping animals.
 
 15. Christmas 2025 was especially meaningful to me. We stayed in a chalet in Bulgaria with Kristina's family, my mum and my mum's partner. We cooked, talked and spent time together. There was not enough snow to ski, so we took the ski lift and walked around instead. It was one of my favourite Christmases because both sides of our family were able to celebrate together.
 
@@ -75,5 +75,5 @@ Prepared 18 October 2026 for Scott's review. Client reference WaKr-2631-801-3. T
 - Confirm how Scott and Kristina kept in contact during the 11–14 May 2026 Sydney work trip.
 - Add approximate dates and durations for other post-grant periods apart: brother's house move, birthdays, TAFE excursion and Sydney Bats volunteering.
 - Confirm Kristina's exact sanctuary role title if it is readily available from her contract or payslip.
-- Obtain Kristina's superannuation beneficiary evidence naming Scott.
+- Kristina's AustralianSuper beneficiary evidence naming Scott has been gathered.
 - Complete a final factual read, then send the statement to Affinity before signing or witnessing it.
