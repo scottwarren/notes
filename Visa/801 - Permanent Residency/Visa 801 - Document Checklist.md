@@ -86,7 +86,7 @@ This section collects every unresolved action in one place. Work through the fir
 * [x] [P1] Sharing of household bills and expenses (e.g. utility bills, rent payments, groceries, household purchases, or other shared living expenses). Since Sep 2025 if applicable — **BANK, RENT, INSURANCE AND UTILITY EVIDENCE GATHERED LOCALLY; upload and submission selection remain.**
 * [x] [P1] Joint ownership or joint rental of the house in which you live
 	* [x] Lease evidence — Urunga and initial Coffs Harbour agreements gathered, together with the Coffs Harbour extension for 27 July 2026–25 January 2027.
-* [ ] [P1] Joint utilities accounts since Sep 2025 — **NO JOINTLY NAMED UTILITY ACCOUNT IDENTIFIED. Use the gathered bills as shared-address or household-expense evidence and describe the account holders accurately.**
+* [x] [P1] Utility evidence since Sep 2025 — **GATHERED. No jointly named utility account was identified; use the bills as shared-address or household-expense evidence and describe the account holders accurately.**
 	* [x] Electricity bills gathered — account is in Scott's name.
 	* [x] Telephone bills gathered — accounts reviewed are in Scott's name.
 	* [x] Internet bills gathered — account is in Scott's name.
@@ -106,7 +106,7 @@ This section collects every unresolved action in one place. Work through the fir
 
 ## Sponsor (Scott)
 
-* [ ] Copy of the biographical pages of current passport - photo, personal details, and the issue/expiry dates
+* [x] Copy of the biographical pages of current passport - photo, personal details, and the issue/expiry dates
 	* [x] Scott's passport — current biographical page added to Evidence.
 * [x] [P1] Copy of Australian Drivers' license (if applicable)
 	* [x] Scott's NSW licence — front and back included across two pages.
