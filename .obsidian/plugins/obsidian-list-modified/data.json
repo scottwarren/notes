@@ -2236,11 +2236,16 @@
     },
     {
       "path": "Visa/801 - Permanent Residency/tmp/render_form80_kristina_reviewed/page-6.png",
-      "supposedList": "created",
+      "supposedList": "deleted",
       "matchesCriteria": false
     },
     {
       "path": "Visa/801 - Permanent Residency/tmp/render_form80_kristina_reviewed/contact.png",
+      "supposedList": "deleted",
+      "matchesCriteria": false
+    },
+    {
+      "path": "Visa/801 - Permanent Residency/Prepared Documents/Form 80 Attachment - Kristina Aleksandrova Warren - Reviewed Draft - WaKr-2631-801-3.pdf",
       "supposedList": "created",
       "matchesCriteria": false
     }
