@@ -17,7 +17,7 @@ This section collects every unresolved action in one place. Work through the fir
 * [ ] **[P1] Jaya's witness statement** — the editable draft and the agency's blank template were emailed to Jaya on 18 October 2026. Obtain her corrections or confirmation, then have the final declaration signed and witnessed and collect the identity attachment required by the template.
 * [ ] **[P1] Scott's relationship statement** — complete the final voice and accuracy review, update any remaining facts and the statement date, obtain Affinity's review, then arrange signing.
 * [x] **[P1] Shared-address correspondence** — locate joint correspondence, or separate letters for Scott and Kristina showing the same current address. - none that I know of, marked as complete
-* [ ] **[P1] Evidence filing and submission selection** — no core financial or household evidence category is currently missing. Confirm that the renamed bank statements, bills, car insurance and licence files are all in the 801 Drive folder, then choose a representative set with useful date coverage rather than submitting every repetitive statement or bill.
+* [x] **[P1] Evidence filing and submission selection** — no core financial or household evidence category is currently missing. Confirm that the renamed bank statements, bills, car insurance and licence files are all in the 801 Drive folder, then choose a representative set with useful date coverage rather than submitting every repetitive statement or bill.
 
 ### Evidence to obtain or complete
 
