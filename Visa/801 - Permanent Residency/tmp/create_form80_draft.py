@@ -66,9 +66,9 @@ def update_attachment():
     t = doc.tables[0]
     set_row(t.rows[1], ["28.07.2025", "Current", "8/4 Prince Street, Coffs Harbour, NSW 2450", "Australia"])
     set_row(t.rows[2], ["11.11.2024", "27.07.2025", "28 Fitzroy Street, Urunga, NSW 2455", "Australia"])
-    set_row(t.rows[3], ["21.06.2024", "[REVIEW: exact move date]", "9 Woollahra Court, Varsity Lakes, QLD 4227", "Australia"], review_cols=(1,))
-    sister = insert_after(t, 3)
-    set_row(sister, ["[REVIEW: exact move date]", "10.11.2024", "12 Millet Place, Upper Coomera, QLD 4209", "Australia"], review_cols=(0,))
+    set_row(t.rows[3], ["[REVIEW: exact move date]", "10.11.2024", "12 Millet Place, Upper Coomera, QLD 4209", "Australia"], review_cols=(0,))
+    mum = insert_after(t, 3)
+    set_row(mum, ["21.06.2024", "[REVIEW: exact move date]", "9 Woollahra Court, Varsity Lakes, QLD 4227", "Australia"], review_cols=(1,))
 
     # Q18 international travel: add trips after the last recorded 2024 trip.
     t = doc.tables[1]
