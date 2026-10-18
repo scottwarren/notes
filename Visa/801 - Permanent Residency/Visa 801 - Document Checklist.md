@@ -10,17 +10,19 @@ This section collects every unresolved action in one place. Work through the fir
 
 ### Priority documents to finish
 
-* [ ] **[P1] Updated Form 80 for Kristina** — a review draft of the fillable PDF, updated attachment and central review list was prepared and uploaded on 18 October 2026. Resolve the yellow review items with Kristina, obtain Affinity's review, then sign and date the final form.
+* [ ] **[P1] Updated Form 80 for Kristina** — Kristina completed the supporting attachment in Drive on 18 October 2026. A reviewed Word and PDF version has been uploaded. Review the remaining main-PDF facts and the two attachment questions noted below, obtain Affinity's review, then sign and date the final main form.
+  * [ ] Confirm with Affinity whether the 21 June 2024–30 September 2026 period should remain one “not employed; studying and volunteering” entry or list material volunteer periods separately.
+  * [ ] Confirm how Affinity wants the onshore subclass 820 visa shown in the attachment's arrival/departure columns; the current row shows no arrival date and “current” as departure.
 * [ ] **[P1] Mum's witness statement** — the corrected editable Word draft and PDF were emailed to Mum on 18 October 2026. Obtain her corrections or confirmation, then have the final declaration signed and witnessed and collect the identity attachment required by the template.
 * [ ] **[P1] Jaya's witness statement** — the editable draft and the agency's blank template were emailed to Jaya on 18 October 2026. Obtain her corrections or confirmation, then have the final declaration signed and witnessed and collect the identity attachment required by the template.
 * [ ] **[P1] Scott's relationship statement** — complete the final voice and accuracy review, update any remaining facts and the statement date, obtain Affinity's review, then arrange signing.
 * [x] **[P1] Shared-address correspondence** — locate joint correspondence, or separate letters for Scott and Kristina showing the same current address. - none that I know of, marked as complete
-* [ ] **[P1] Evidence filing and submission selection** — upload any renamed bank statements, bills, car insurance and licence files not yet in the 801 Drive folder, then choose a representative set with useful date coverage - what do you think is missing? 
+* [ ] **[P1] Evidence filing and submission selection** — no core financial or household evidence category is currently missing. Confirm that the renamed bank statements, bills, car insurance and licence files are all in the 801 Drive folder, then choose a representative set with useful date coverage rather than submitting every repetitive statement or bill.
 
 ### Evidence to obtain or complete
 
-* [x] **Kristina's Bulgarian national identity card** — add a clear colour copy of the original and an official English translation if the document is not in English.
-* [ ] **Bali return-flight evidence** — add Kristina's return booking or boarding record for 10 October 2025 when received.
+* [ ] **Kristina's Bulgarian national identity card** — no copy was located in the 801 Drive folder. Add a clear colour copy of the original and an official English translation if the document is not in English.
+* [x] **Bali return-flight evidence** — Kristina's forwarded Jetstar confirmation has been filed in the Travel evidence folder. It records JQ94 departing Bali on 10 October 2025 and arriving at the Gold Coast on 11 October 2025.
 * [x] **Relationship photo timeline** — if available, add one or two photos from March–May 2026 and one or two from September–October 2026. If none are useful, ask Affinity whether the present 24-photo timeline is sufficient.
 
 ### Questions to send to Affinity
@@ -32,7 +34,7 @@ This section collects every unresolved action in one place. Work through the fir
 ### Optional supporting items
 
 * [x] Confirm that gas is not applicable at the current home, if correct. -not applicable
-* [x] Add Kristina's exact Coffs Coast Wildlife Sanctuary role title if it is readily available from her contract or payslip. - not necessary i think
+* [x] Kristina confirmed the Coffs Coast Wildlife Sanctuary role title as Animal Attendant and supplied the main duties in the Form 80 attachment.
 * [x] Add useful Bulgaria accommodation records or trip photos if already available; the joint flight evidence is complete. - have 
 * [ ] Consider course certificates, sanctuary employment evidence, volunteering records or relevant veterinary records only where they strengthen an event already described.
 
@@ -56,6 +58,8 @@ This section collects every unresolved action in one place. Work through the fir
 * [x] Thirty-four relationship photos reviewed from the Photos album. Twenty-four were selected for the draft timeline, covering 16 dates from August 2025 to August 2026.
 * [x] Three ordinary Messages screenshots gathered for the Bali separation, covering 6–8 October 2025, and uploaded to the Google Drive Contact During Separation folder.
 * [x] Kristina's Form 80 review package prepared and uploaded: fillable PDF draft, editable updated attachment, PDF attachment and consolidated review-items document. Known post-grant address, travel, study and employment details are included; uncertain details are highlighted for confirmation.
+* [x] Kristina completed the Form 80 attachment in Drive. A reviewed Word and PDF version was uploaded after correcting the Bali arrival date, removing resolved drafting prompts, filling a missing country, correcting obvious typographical errors and removing a template-only row.
+* [x] Jetstar Bali return confirmation filed: JQ94 departed Denpasar on 10 October 2025 and arrived at the Gold Coast on 11 October 2025.
 
 ##  Visa applicant's identity
 
@@ -68,7 +72,7 @@ This section collects every unresolved action in one place. Work through the fir
 * [x] If your name has changed or the name of anyone in your application has changed. 
 	* [x] Kristina and Scott's marriage certificate
 * [x] Subclass 820 Grant Letter — filed locally and in the Google Drive Evidence folder.
-* [ ] [P1] Updated Form 80 - Personal particulars for character assessment (Kristina) #kristina — **IN REVIEW: draft PDF and attachment prepared; highlighted facts, Affinity review and final signature/date remain.**
+* [ ] [P1] Updated Form 80 - Personal particulars for character assessment (Kristina) #kristina — **IN REVIEW: Kristina completed the attachment and a reviewed version is uploaded. Main-PDF confirmations, Affinity review and final signature/date remain.**
 ## Evidence to demonstrate that your relationship is genuine and continuing since the grant of your temporary visa
 
 
@@ -91,9 +95,9 @@ This section collects every unresolved action in one place. Work through the fir
 	* [x] Telephone bills gathered — accounts reviewed are in Scott's name.
 	* [x] Internet bills gathered — account is in Scott's name.
 	* [x] Water bills gathered — addressed to the property owner or agent for the shared rental address.
-* [ ] [P1] Correspondence addressed to both you and your partner at the same address (letters, mail, etc)
+* [x] [P1] Correspondence addressed to both you and your partner at the same address (letters, mail, etc) — **NOT AVAILABLE: Scott confirmed none is known. The joint leases and separate same-address evidence cover the shared residence instead.**
 * [x] [P1] Records of joint travel (e.g. flight bookings, hotel/accommodation bookings, travel itineraries, and photos from trips taken together) - Since Sep 2025, if applicable — **FLIGHT EVIDENCE GATHERED FOR BOTH BULGARIA TRIPS. Add accommodation or photos if useful.**
-* [ ] [P1] Correspondence and itemised phone accounts to show that contact maintained during any period of separation - since Sep 2025 if applicable
+* [x] [P1] Correspondence and itemised phone accounts to show that contact maintained during any period of separation - since Sep 2025 if applicable — **GATHERED: three ordinary Messages screenshots from 6–8 October 2025 are filed for the Bali separation. Ask Affinity only whether more is required for the brief absences.**
 * [ ] [P1] Relationship Timeline Photos - Since Sep 2025 — **IN PROGRESS: 24 photos across 16 dates have been placed into the updated draft timeline.**
 	* [x] Compile the current album in chronological order with date, people and a brief caption.
 	* [x] Add recent photos through August 2026 and broaden family, social and ordinary-activity coverage.
@@ -125,7 +129,7 @@ These questions are intended to replace vague wording with facts Scott can perso
 * [x] **Kristina's superannuation beneficiary evidence** — added to Evidence; no further review requested.
 * [x] **Bali contact wording** — use: “We remained in regular contact through messages on most days and video calls when her schedule allowed.” Do not claim daily contact or a specific call count. Three message screenshots from 6–8 October 2025 have been uploaded to Drive.
 * [ ] **Other periods apart** — ask Affinity whether exact dates, durations and separate contact evidence are required for the short absences involving the brother's house move, birthdays, TAFE excursions and Sydney Bats. Definite solo work travel is confirmed for Sydney from 11 to 14 May 2026.
-* [ ] **Sanctuary role title** — first shift confirmed as 1 October 2026 and first pay confirmed as deposited into joint 2Up. Add the exact role title if it is readily available from the contract or payslip.
+* [x] **Sanctuary role title** — Kristina confirmed Animal Attendant. The Form 80 attachment records care of animals, preparation and provision of diets, and educational presentations. First shift was 1 October 2026 and first pay was deposited into joint 2Up.
 * [x] **Lease extension** — renewal period 27 July 2026 to 25 January 2027 is confirmed by Scott and appears in the lease document.
 * [x] **Scott's work** — use “Software Engineer”; employment commenced 21 October 2024.
 * [x] **Bereavement timing** — keep the timing general. The exact date of death is not necessary for the relationship narrative unless Affinity requests it or Scott chooses to include it.
@@ -144,12 +148,12 @@ Response space: add answers below the relevant item, using approximate dates whe
 
 ## Additional evidence follow-up and agency clarifications
 
-* [ ] Bali return ticket — already requested from Kristina; add to Evidence when received. Return date supplied is 10 October 2025.
+* [x] Bali return evidence — Kristina forwarded the Jetstar confirmation and it is filed in the Drive Travel folder. JQ94 departed Denpasar on 10 October 2025 and arrived at the Gold Coast on 11 October 2025.
 * [ ] Joint travel — December and June Bulgaria flight records have been reviewed. Add available accommodation details and photos where helpful. No extra December passenger record is requested: Scott confirmed both travelled and the booking is for two travellers.
 * [x] Contact during separation — three dated Bali Messages screenshots from 6–8 October 2025 are uploaded to the Drive Contact During Separation folder. Ask Affinity whether further records are required for brief absences.
 * [x] Shared finances — CBA, 2Up and ING statements have been retrieved with relevant date coverage. ING and the loans remain accurately described as solely held. Upload and final submission selection are tracked above.
 * [x] Legal commitments — beneficiary evidence for both partners and the joint leases have been gathered.
-* [x] Utilities — electricity, internet and telephone bills reviewed are in Scott's name; water bills are addressed to the property owner or agent. Gas remains to be confirmed as applicable or not applicable. Do not describe these as jointly held accounts.
+* [x] Utilities — electricity, internet and telephone bills reviewed are in Scott's name; water bills are addressed to the property owner or agent. Gas is not applicable. Do not describe these as jointly held accounts.
 * [x] Urunga lease — Scott confirmed that after the fixed term the tenancy continued periodically until Scott and Kristina moved to Coffs Harbour in July 2025.
 * [ ] Agency question — confirm whether Kristina’s Bulgarian licence is wanted.
 * [ ] Optional supporting records — locate course completion certificates, sanctuary contract/payslip, volunteering records and veterinary invoices/loan records where useful. These are supporting suggestions, not additional agency requirements.
@@ -183,7 +187,7 @@ Resolved — Bulgaria Christmas trip: depart 11 December 2025; return departure 
 
 Resolved — Bulgaria June trip: depart 3 June 2026; return departure 16 June; arrival Australia 18 June. Separate tickets for Scott and Kristina show matching itineraries.
 
-Resolved — Bali outbound ticket names Kristina and departs 30 September 2025. Return evidence is the pending item above.
+Resolved — Bali outbound evidence names Kristina and departs the Gold Coast on 30 September 2025. The Jetstar return confirmation records departure from Denpasar on 10 October 2025 and arrival at the Gold Coast on 11 October 2025.
 
 Resolved — the social section now records the February 2026 Bad Bunny concert in Sydney, the August 2026 whale-watching outing with Kristina's friends, time with Kristina's friend and her husband in January 2026, and the way family and friendships have continued since the move to Coffs Harbour. Christmas 2024 remains earlier context. Current plans for Sydney, a home in 3–4 years and ongoing conversations about children are incorporated. The superannuation home-deposit wording records your intention, not an eligibility assessment.
 

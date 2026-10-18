@@ -56,7 +56,7 @@ Prepared 18 October 2026 for Scott's review. Client reference WaKr-2631-801-3. T
 
 21. We travelled to Bulgaria together from 11 December 2025 to 8 January 2026. We travelled there together again following her father's death, departing the Gold Coast on 3 June 2026 and arriving back in Australia on 18 June 2026. For these trips we drove to the Gold Coast together, left our car at my mum's home and arranged a dog sitter.
 
-22. Kristina travelled to Bali with her best friend from 30 September to 10 October 2025, while I remained in Australia. We remained in regular contact through messages on most days and video calls when her schedule allowed. It was the longest we had been apart for several years, and neither of us enjoyed the separation.
+22. Kristina travelled to Bali with her best friend, leaving the Gold Coast on 30 September 2025. Her return flight left Bali on 10 October and arrived at the Gold Coast on 11 October 2025. I remained in Australia. We remained in regular contact through messages on most days and video calls when her schedule allowed. It was the longest we had been apart for several years, and neither of us enjoyed the separation.
 
 23. I travelled to Sydney without Kristina for work from 11 to 14 May 2026. My itinerary records one adult traveller and three nights in Sydney. This was temporary work travel and did not change our shared home or commitment to each other.
 
