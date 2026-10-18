@@ -7,11 +7,11 @@ This report consolidates the documents, decisions and questions that remain for 
 
 ## 1. Highest-priority documents and actions
 
-* [ ] **Updated Form 80 for Kristina** — complete using the previous form and attachment as the base, then review every answer for changes.
+* [ ] **Updated Form 80 for Kristina** — Kristina completed the supporting attachment and a reviewed Word/PDF version is in Drive. Confirm the remaining main-PDF facts, ask Affinity how to present the 2024–2026 study/volunteering period and subclass 820 visa-history row, obtain Affinity's review, then sign and date the final main form.
 * [ ] **Two updated Form 888 statements** — obtain Mum's confirmation of the corrected draft already emailed to her. Review Jaya's newly prepared draft and confirm the highlighted details. Then arrange identity attachments, signing and witnessing for both statements.
 * [ ] **Scott's relationship statement** — the confirmed occupation, employment date, sanctuary date, AustralianSuper and Bali-contact wording has been incorporated. Complete Scott's final voice and accuracy review, obtain Affinity's review, update the statement date and arrange signing.
 * [ ] **Relationship photo timeline** — review the updated 24-photo draft. If available, add one or two photos from March–May 2026 and one or two from September–October 2026; otherwise ask Affinity whether the current coverage is sufficient.
-* [ ] **Shared-address correspondence** — locate correspondence addressed jointly, or separate correspondence addressed to Scott and Kristina at the same residential address.
+* [x] **Shared-address correspondence** — none is known. Use the joint leases and separate same-address evidence instead.
 * [ ] **Final evidence upload and selection** — ensure the gathered statements, bills, leases, insurance, identification and supporting evidence are in the 801 Drive folder, then choose a representative submission set with useful date coverage.
 
 ## 2. Identity and application documents still required
@@ -22,7 +22,7 @@ This report consolidates the documents, decisions and questions that remain for 
 * [x] Kristina's current NSW driver licence — added to Evidence.
 * [ ] Confirm with Affinity whether Kristina's Bulgarian driver licence is required.
 * [x] Subclass 820 grant letter — filed locally and uploaded to Evidence.
-* [ ] Bali return-flight evidence for Kristina, if not yet received and filed.
+* [x] Bali return-flight evidence — Jetstar JQ94 departed Denpasar on 10 October 2025 and arrived at the Gold Coast on 11 October 2025; the forwarded confirmation is filed in Drive.
 
 ## 3. Relationship statement facts now confirmed
 
@@ -35,19 +35,19 @@ This report consolidates the documents, decisions and questions that remain for 
 * [x] During the Bali separation, Scott and Kristina remained in regular contact through messages on most days and video calls when Kristina's schedule allowed. The statement should not claim daily messages or a specific number of calls.
 * [x] Kristina's AustralianSuper beneficiary evidence naming Scott has been added to Evidence.
 * [x] The date of Kristina's father's death can remain general in the relationship narrative unless Affinity requests the exact date or Scott chooses to include it.
-* [ ] Obtain Kristina's exact sanctuary role title from her contract or payslip if readily available.
+* [x] Kristina confirmed the sanctuary role title as **Animal Attendant** and supplied the main duties in the Form 80 attachment.
 
 ## 4. Questions to send to Affinity
 
 * [ ] **Brief periods apart:** Do you require exact dates, durations and contact evidence for short absences such as the brother's house move, birthdays, TAFE excursions and Sydney Bats volunteering, or is a general description sufficient?
 * [ ] **Utilities:** The electricity, internet and telephone accounts are in Scott's name, and the water bills are addressed to the owner or agent. Is the shared-address and payment evidence sufficient where no utility is jointly named?
-* [ ] **Gas:** Confirm that this is not applicable to the property.
+* [x] **Gas:** Not applicable to the property.
 
 ## 5. Periods apart and contact evidence
 
 * [x] Bali outbound travel evidence is available for 30 September 2025.
 * [x] Three ordinary Messages screenshots covering 6–8 October 2025 have been uploaded to the Google Drive **Contact During Separation** folder.
-* [ ] Add Kristina's Bali return evidence when received.
+* [x] Kristina's Bali return evidence is filed; the flight departed Bali on 10 October and arrived in Australia on 11 October 2025.
 * [x] Scott's definite solo Sydney work trip is confirmed as **11–14 May 2026**.
 * [ ] Ask Affinity whether further evidence is required for the solo Sydney trip or the shorter absences.
 
@@ -85,7 +85,7 @@ These items may help support events already described but were not identified as
 * [ ] Sanctuary contract or payslip.
 * [ ] WIRES or Sydney Bats volunteering records.
 * [ ] Veterinary invoices and dog-surgery finance records if they help demonstrate joint decisions and mutual support.
-* [ ] Bulgaria accommodation information or additional travel photographs.
+* [x] Bulgaria accommodation information or additional travel photographs are available.
 
 ## Drive locations
 
