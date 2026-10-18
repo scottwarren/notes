@@ -31,8 +31,8 @@ This section collects every unresolved action in one place. Work through the fir
 
 ### Optional supporting items
 
-* [ ] Confirm that gas is not applicable at the current home, if correct.
-* [ ] Add Kristina's exact Coffs Coast Wildlife Sanctuary role title if it is readily available from her contract or payslip.
+* [x] Confirm that gas is not applicable at the current home, if correct. -not applicable
+* [x] Add Kristina's exact Coffs Coast Wildlife Sanctuary role title if it is readily available from her contract or payslip. - not necessary i think
 * [ ] Add useful Bulgaria accommodation records or trip photos if already available; the joint flight evidence is complete.
 * [ ] Consider course certificates, sanctuary employment evidence, volunteering records or relevant veterinary records only where they strengthen an event already described.
 
