@@ -10,7 +10,7 @@ This section collects every unresolved action in one place. Work through the fir
 
 ### Priority documents to finish
 
-* [ ] **[P1] Updated Form 80 for Kristina** — complete and review the form and attachment using the previous version as the base.
+* [ ] **[P1] Updated Form 80 for Kristina** — a review draft of the fillable PDF, updated attachment and central review list was prepared and uploaded on 18 October 2026. Resolve the yellow review items with Kristina, obtain Affinity's review, then sign and date the final form.
 * [ ] **[P1] Mum's witness statement** — the corrected editable Word draft and PDF were emailed to Mum on 18 October 2026. Obtain her corrections or confirmation, then have the final declaration signed and witnessed and collect the identity attachment required by the template.
 * [ ] **[P1] Jaya's witness statement** — the editable draft and the agency's blank template were emailed to Jaya on 18 October 2026. Obtain her corrections or confirmation, then have the final declaration signed and witnessed and collect the identity attachment required by the template.
 * [ ] **[P1] Scott's relationship statement** — complete the final voice and accuracy review, update any remaining facts and the statement date, obtain Affinity's review, then arrange signing.
@@ -55,6 +55,7 @@ This section collects every unresolved action in one place. Work through the fir
 * [x] Mum's witness statement was reviewed, corrected and emailed to her in editable Word and PDF formats. Jaya's review draft and the agency template were emailed to her. Confirmation, identity attachments, signing and witnessing remain for both statements.
 * [x] Thirty-four relationship photos reviewed from the Photos album. Twenty-four were selected for the draft timeline, covering 16 dates from August 2025 to August 2026.
 * [x] Three ordinary Messages screenshots gathered for the Bali separation, covering 6–8 October 2025, and uploaded to the Google Drive Contact During Separation folder.
+* [x] Kristina's Form 80 review package prepared and uploaded: fillable PDF draft, editable updated attachment, PDF attachment and consolidated review-items document. Known post-grant address, travel, study and employment details are included; uncertain details are highlighted for confirmation.
 
 ##  Visa applicant's identity
 
@@ -67,7 +68,7 @@ This section collects every unresolved action in one place. Work through the fir
 * [x] If your name has changed or the name of anyone in your application has changed. 
 	* [x] Kristina and Scott's marriage certificate
 * [x] Subclass 820 Grant Letter — filed locally and in the Google Drive Evidence folder.
-* [ ] [P1] Updated Form 80 - Personal particulars for character assessment (Kristina) #kristina 
+* [ ] [P1] Updated Form 80 - Personal particulars for character assessment (Kristina) #kristina — **IN REVIEW: draft PDF and attachment prepared; highlighted facts, Affinity review and final signature/date remain.**
 ## Evidence to demonstrate that your relationship is genuine and continuing since the grant of your temporary visa
 
 
