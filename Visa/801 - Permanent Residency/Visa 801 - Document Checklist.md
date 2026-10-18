@@ -61,6 +61,7 @@ This section collects every unresolved action in one place. Work through the fir
 * [x] Kristina completed the Form 80 attachment in Drive. A reviewed Word and PDF version was uploaded after correcting the Bali arrival date, removing resolved drafting prompts, filling a missing country, correcting obvious typographical errors and removing a template-only row.
 * [x] Jetstar Bali return confirmation filed: JQ94 departed Denpasar on 10 October 2025 and arrived at the Gold Coast on 11 October 2025.
 * [x] Kristina's Bulgarian identity card filed: two-page colour PDF with front and back, unencrypted and correctly named with the client reference.
+* [x] Kristina's Bulgarian driver licence is also available locally and has been uploaded to Drive Evidence; confirmation is still needed only on whether Affinity wants it submitted.
 
 ##  Visa applicant's identity
 
@@ -69,7 +70,7 @@ This section collects every unresolved action in one place. Work through the fir
 	* [x] Kristina Bulgarian national ID — front and back filed in a two-page colour PDF; the card includes English labels.
 * [ ] Copy of driver's card
 	* [x] Kristina's NSW driver's license
-	* [ ] Kristina's Bulgarian driver's license(?)
+	* [x] Kristina's Bulgarian driver's licence — front and back uploaded to Drive Evidence; ask Affinity only whether it should be included in the submission.
 * [x] If your name has changed or the name of anyone in your application has changed. 
 	* [x] Kristina and Scott's marriage certificate
 * [x] Subclass 820 Grant Letter — filed locally and in the Google Drive Evidence folder.
