@@ -1953,6 +1953,111 @@
       "path": "Visa/801 - Permanent Residency/Prepared Documents/Form 80 Attachment - Kristina Aleksandrova Warren - Working Source - WaKr-2631-801-3.docx",
       "supposedList": "created",
       "matchesCriteria": false
+    },
+    {
+      "path": "Visa/801 - Permanent Residency/tmp/create_form80_draft.py",
+      "supposedList": "created",
+      "matchesCriteria": false
+    },
+    {
+      "path": "Visa/801 - Permanent Residency/Prepared Documents/Form 80 Attachment - Kristina Aleksandrova Warren - Review Draft - WaKr-2631-801-3.docx",
+      "supposedList": "created",
+      "matchesCriteria": false
+    },
+    {
+      "path": "Visa/801 - Permanent Residency/Prepared Documents/Form 80 - Kristina Aleksandrova Warren - Review Draft - WaKr-2631-801-3.pdf",
+      "supposedList": "created",
+      "matchesCriteria": false
+    },
+    {
+      "path": "Visa/801 - Permanent Residency/Prepared Documents/Form 80 Review Items - Kristina Aleksandrova Warren - WaKr-2631-801-3.md",
+      "supposedList": "created",
+      "matchesCriteria": true
+    },
+    {
+      "path": "Visa/801 - Permanent Residency/Prepared Documents/Form 80 Review Items - Kristina Aleksandrova Warren - WaKr-2631-801-3.docx",
+      "supposedList": "created",
+      "matchesCriteria": false
+    },
+    {
+      "path": "Visa/801 - Permanent Residency/tmp/render_form80_notes/Form 80 Review Items - Kristina Aleksandrova Warren - WaKr-2631-801-3.pdf",
+      "supposedList": "created",
+      "matchesCriteria": false
+    },
+    {
+      "path": "Visa/801 - Permanent Residency/tmp/render_form80_attachment/Form 80 Attachment - Kristina Aleksandrova Warren - Review Draft - WaKr-2631-801-3.pdf",
+      "supposedList": "created",
+      "matchesCriteria": false
+    },
+    {
+      "path": "Visa/801 - Permanent Residency/tmp/render_form80_attachment/page0002-2.png",
+      "supposedList": "deleted",
+      "matchesCriteria": false
+    },
+    {
+      "path": "Visa/801 - Permanent Residency/tmp/render_form80_attachment/page0001-1.png",
+      "supposedList": "deleted",
+      "matchesCriteria": false
+    },
+    {
+      "path": "Visa/801 - Permanent Residency/tmp/render_form80_notes/page0001-1.png",
+      "supposedList": "deleted",
+      "matchesCriteria": false
+    },
+    {
+      "path": "Visa/801 - Permanent Residency/tmp/render_form80_attachment/page0003-3.png",
+      "supposedList": "deleted",
+      "matchesCriteria": false
+    },
+    {
+      "path": "Visa/801 - Permanent Residency/tmp/render_form80_notes/page0002-2.png",
+      "supposedList": "deleted",
+      "matchesCriteria": false
+    },
+    {
+      "path": "Visa/801 - Permanent Residency/tmp/render_form80_attachment/page0004-4.png",
+      "supposedList": "deleted",
+      "matchesCriteria": false
+    },
+    {
+      "path": "Visa/801 - Permanent Residency/tmp/render_form80_attachment/page0005-5.png",
+      "supposedList": "deleted",
+      "matchesCriteria": false
+    },
+    {
+      "path": "Visa/801 - Permanent Residency/tmp/render_form80_attachment/page-1.png",
+      "supposedList": "created",
+      "matchesCriteria": false
+    },
+    {
+      "path": "Visa/801 - Permanent Residency/tmp/render_form80_attachment/page-2.png",
+      "supposedList": "created",
+      "matchesCriteria": false
+    },
+    {
+      "path": "Visa/801 - Permanent Residency/tmp/render_form80_attachment/page-3.png",
+      "supposedList": "created",
+      "matchesCriteria": false
+    },
+    {
+      "path": "Visa/801 - Permanent Residency/tmp/render_form80_attachment/page-4.png",
+      "supposedList": "created",
+      "matchesCriteria": false
+    },
+    {
+      "path": "Visa/801 - Permanent Residency/tmp/render_form80_attachment/page-5.png",
+      "supposedList": "created",
+      "matchesCriteria": false
+    },
+    {
+      "path": "Visa/801 - Permanent Residency/tmp/render_form80_notes/page-1.png",
+      "supposedList": "created",
+      "matchesCriteria": false
+    },
+    {
+      "path": "Visa/801 - Permanent Residency/tmp/render_form80_notes/page-2.png",
+      "supposedList": "created",
+      "matchesCriteria": false
     }
   ]
 }
