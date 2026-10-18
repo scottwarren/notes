@@ -18,7 +18,7 @@ This report consolidates the documents, decisions and questions that remain for 
 
 * [x] Current passport biographical page for Kristina — added to Evidence.
 * [x] Current passport biographical page for Scott — added to Evidence.
-* [ ] Kristina's Bulgarian national identity card.
+* [x] Kristina's Bulgarian national identity card — front and back filed as a two-page colour PDF in Drive Evidence; the card includes English labels.
 * [x] Kristina's current NSW driver licence — added to Evidence.
 * [ ] Confirm with Affinity whether Kristina's Bulgarian driver licence is required.
 * [x] Subclass 820 grant letter — filed locally and uploaded to Evidence.

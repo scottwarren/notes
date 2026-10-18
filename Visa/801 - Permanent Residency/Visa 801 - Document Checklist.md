@@ -21,7 +21,7 @@ This section collects every unresolved action in one place. Work through the fir
 
 ### Evidence to obtain or complete
 
-* [ ] **Kristina's Bulgarian national identity card** — no copy was located in the 801 Drive folder. Add a clear colour copy of the original and an official English translation if the document is not in English.
+* [x] **Kristina's Bulgarian national identity card** — the two-page colour PDF containing the front and back has been checked and uploaded to the Drive Evidence folder. The card includes English labels.
 * [x] **Bali return-flight evidence** — Kristina's forwarded Jetstar confirmation has been filed in the Travel evidence folder. It records JQ94 departing Bali on 10 October 2025 and arriving at the Gold Coast on 11 October 2025.
 * [x] **Relationship photo timeline** — if available, add one or two photos from March–May 2026 and one or two from September–October 2026. If none are useful, ask Affinity whether the present 24-photo timeline is sufficient.
 
@@ -60,12 +60,13 @@ This section collects every unresolved action in one place. Work through the fir
 * [x] Kristina's Form 80 review package prepared and uploaded: fillable PDF draft, editable updated attachment, PDF attachment and consolidated review-items document. Known post-grant address, travel, study and employment details are included; uncertain details are highlighted for confirmation.
 * [x] Kristina completed the Form 80 attachment in Drive. A reviewed Word and PDF version was uploaded after correcting the Bali arrival date, removing resolved drafting prompts, filling a missing country, correcting obvious typographical errors and removing a template-only row.
 * [x] Jetstar Bali return confirmation filed: JQ94 departed Denpasar on 10 October 2025 and arrived at the Gold Coast on 11 October 2025.
+* [x] Kristina's Bulgarian identity card filed: two-page colour PDF with front and back, unencrypted and correctly named with the client reference.
 
 ##  Visa applicant's identity
 
 * [x] Copy of the biographical pages of current passports of all people included in the application (photo, personal details, issue/expiry dates)
-* [ ] Copy of national card
-	* [ ] Kristina Bulgarian national ID
+* [x] Copy of national card
+	* [x] Kristina Bulgarian national ID — front and back filed in a two-page colour PDF; the card includes English labels.
 * [ ] Copy of driver's card
 	* [x] Kristina's NSW driver's license
 	* [ ] Kristina's Bulgarian driver's license(?)
