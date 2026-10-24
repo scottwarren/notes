@@ -22,62 +22,27 @@
   "sortModified": "none",
   "sortDeleted": "none",
   "verboseModeEnabled": false,
-  "lastTrackedDate": "2026-10-20",
+  "lastTrackedDate": "2026-10-24",
   "trackedFiles": [
     {
-      "path": "Visa/801 - Permanent Residency/tmp/render_relationship_review_current/page0003-3.png",
-      "supposedList": "deleted",
-      "matchesCriteria": false
+      "path": "801 visa - dates of separation.md",
+      "matchesCriteria": true,
+      "supposedList": "created"
     },
     {
-      "path": "Visa/801 - Permanent Residency/tmp/render_relationship_review_current/page0005-5.png",
-      "supposedList": "deleted",
-      "matchesCriteria": false
-    },
-    {
-      "path": "Visa/801 - Permanent Residency/tmp/render_relationship_review_current/page0004-4.png",
-      "supposedList": "deleted",
-      "matchesCriteria": false
-    },
-    {
-      "path": "Visa/801 - Permanent Residency/tmp/render_relationship_review_current/page0002-2.png",
-      "supposedList": "deleted",
-      "matchesCriteria": false
-    },
-    {
-      "path": "Visa/801 - Permanent Residency/tmp/render_relationship_review_current/page0001-1.png",
-      "supposedList": "deleted",
-      "matchesCriteria": false
-    },
-    {
-      "path": "Visa/801 - Permanent Residency/tmp/render_relationship_review_current/page-1.png",
+      "path": "Visa/801 - Permanent Residency/Review/Relationship Statement Change 01 - Bulgaria dates.html",
       "supposedList": "created",
       "matchesCriteria": false
     },
     {
-      "path": "Visa/801 - Permanent Residency/tmp/render_relationship_review_current/page-2.png",
+      "path": "Visa/801 - Permanent Residency/Review/Relationship Statement Change 01 - Bulgaria dates.diff",
       "supposedList": "created",
       "matchesCriteria": false
     },
     {
-      "path": "Visa/801 - Permanent Residency/tmp/render_relationship_review_current/page-3.png",
+      "path": "Visa/801 - Permanent Residency/Review/Relationship Statement Review Working Source.md",
       "supposedList": "created",
-      "matchesCriteria": false
-    },
-    {
-      "path": "Visa/801 - Permanent Residency/tmp/render_relationship_review_current/page-4.png",
-      "supposedList": "created",
-      "matchesCriteria": false
-    },
-    {
-      "path": "Visa/801 - Permanent Residency/tmp/render_relationship_review_current/page-5.png",
-      "supposedList": "created",
-      "matchesCriteria": false
-    },
-    {
-      "path": "Visa/801 - Permanent Residency/tmp/render_relationship_review_current/contact-sheet.png",
-      "supposedList": "created",
-      "matchesCriteria": false
+      "matchesCriteria": true
     }
   ]
 }
